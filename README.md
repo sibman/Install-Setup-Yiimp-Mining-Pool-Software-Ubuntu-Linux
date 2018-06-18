@@ -1,4 +1,4 @@
-# INSTALL YIIMP MINING POOL SOFTWARE TO START YOUR OWN MINING POOL FOR MULTIPLE CRYPTO COINS OF YOUR CHOICE
+# Install Yiimp Mining Pool Software to Start your Own Mining Pool for Multiple Crypto Coins of your Choice
 
 
 
