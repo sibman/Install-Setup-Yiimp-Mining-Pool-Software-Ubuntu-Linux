@@ -14,7 +14,7 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 ####                      YIIMP SOFTWARE SUPPORTED ALGORIGHTMS
 
-   |   |    | Algos | Algos  | Algos
+  Algos | Algos  | Algos | Algos | Algos  | Algos
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 argon2  | fresh | lyra2v2 | quark | timetravel | x14
 bastion  | hive | lyra2z | qubit | tribus | x15
