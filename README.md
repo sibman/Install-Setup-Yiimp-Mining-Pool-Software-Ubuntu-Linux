@@ -4,7 +4,7 @@
 
 For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
-### For paid personalized quick support please contact
+### For paid personalized pool setup service, quick support please contact
 
 > Discord:      **@goodthebest#6606**
 
