@@ -1,4 +1,4 @@
-# Yiimp_install_scrypt (update Feb 18, 2018)
+# Yiimp install script
 
 
 
