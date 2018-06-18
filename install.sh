@@ -1,12 +1,5 @@
 #!/bin/bash
 ################################################################################
-# Original Author:   crombiecrunch
-# Fork Author: manfromafar
-# Current Author: Xavatar
-# Web:     
-#
-# Program:
-#   Install yiimp on Ubuntu 16.04 running Nginx, MariaDB, and php7.x
 # 
 # 
 ################################################################################
