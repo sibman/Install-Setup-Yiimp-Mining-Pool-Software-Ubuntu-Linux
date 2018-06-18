@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+##
 output() {
     printf "\E[0;33;40m"
     echo $1
