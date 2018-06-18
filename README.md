@@ -12,7 +12,7 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 > Telegram:     **@goodthebest**
 
-##YIIMP SOFTWARE SUPPORTED ALGORIGHTMS
+## YIIMP SOFTWARE SUPPORTED ALGORIGHTMS
 
 Algos  | Algos | Algos  | Algos | Algos  | Algos
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
