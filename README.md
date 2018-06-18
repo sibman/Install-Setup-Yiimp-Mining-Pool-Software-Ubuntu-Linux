@@ -16,6 +16,7 @@ Algorithms  | Algorithms2 | Algorithms2
 ------------- | ------------- | -------------
 algo 1  | algo 2 | algo 5
 algo 3  | algo 4 | algo 6
+algo 7  | algo 8 | algo 9
 
 Sample frontend of yiimp software mining pool
 ![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
