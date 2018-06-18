@@ -1,6 +1,6 @@
 # SETUP YOUR OWN MINING POOL AND START MINING CRYPTOCURRENCIES OF YOUR CHOICE
 
-## Install Yiimp Mining Pool Software to Start your Own Mining Pool for Multiple Crypto Coins
+### Install Yiimp Mining Pool Software to Start your Own Mining Pool for Multiple Crypto Coins
 
 For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
