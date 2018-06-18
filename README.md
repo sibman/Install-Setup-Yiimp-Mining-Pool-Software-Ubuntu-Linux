@@ -12,7 +12,7 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 > Telegram:     **@goodthebest**
 
-argon2  | fresh | algo 5 | algo 5 | algo 5 | algo 5
+  |  |  |  |  | 
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 argon2  | fresh | algo 5 | algo 5 | algo 5 | algo 5
 bastion  | hive | algo 6 | algo 5 | algo 5 | algo 5
@@ -22,6 +22,7 @@ blake2s  | jha | algo 9 | algo 5 | algo 5 | algo 5
 blakecoin  | keccak | algo 9 | algo 5 | algo 5 | algo 5
 c11  | keccakc | algo 9 | algo 5 | algo 5 | algo 5
 deep  | lbry | algo 9 | algo 5 | algo 5 | algo 5
+dmd-gr  | luffa | algo 9 | algo 5 | algo 5 | algo 5
 dmd-gr  | luffa | algo 9 | algo 5 | algo 5 | algo 5
 
 
