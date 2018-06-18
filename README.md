@@ -1,9 +1,6 @@
 # Yiimp_install_scrypt (update Feb 18, 2018)
 
 
-Discord : https://discord.gg/zcCXjkQ
-
-TUTO Youtube : https://www.youtube.com/watch?v=vdBCw6_cyig
 
 Official Yiimp (used in this script for Yiimp Installation): https://github.com/tpruvot/yiimp
 
@@ -62,8 +59,6 @@ Go http://xxx.xxxxxx.xxx or https://xxx.xxxxxx.xxx (if you have chosen LetsEncry
 While I did add some server security to the script, it is every server owners responsibility to fully secure their own servers. After the installation you will still need to customize your serverconfig.php file to your liking, add your API keys, and build/add your coins to the control panel. 
 
 There will be several wallets already in yiimp. These have nothing to do with the installation script and are from the database import from the yiimp github. 
-
-If you need further assistance we have a small but growing discord channel at https://discord.gg/zcCXjkQ
 
 If this helped you or you feel giving please donate : 
 - BTC Donation : 1C1hnjk3WhuAvUN6Ny6LTxPD3rwSZwapW7
