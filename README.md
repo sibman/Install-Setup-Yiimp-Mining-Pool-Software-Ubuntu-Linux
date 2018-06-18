@@ -14,16 +14,16 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 Algorithms  | Algorithms | Algorithms  | Algorithms | Algorithms  | Algorithms
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-argon2  | fresh | algo 5 | algo 5 | algo 5 | algo 5
-bastion  | hive | algo 6 | algo 5 | algo 5 | algo 5
-bitcore  | hmq1725 | algo 9 | algo 5 | algo 5 | algo 5
-blake  | hsr | algo 9 | algo 5 | algo 5 | algo 5
-blake2s  | jha | algo 9 | algo 5 | algo 5 | algo 5
-blakecoin  | keccak | algo 9 | algo 5 | algo 5 | algo 5
-c11  | keccakc | algo 9 | algo 5 | algo 5 | algo 5
-deep  | lbry | algo 9 | algo 5 | algo 5 | algo 5
-dmd-gr  | luffa | algo 9 | algo 5 | algo 5 | algo 5
-dmd-gr  | luffa | algo 9 | algo 5 | algo 5 | algo 5
+argon2  | fresh | lyra2v2 | quark | timetravel | x14
+bastion  | hive | lyra2z | qubit | tribus | x15
+bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r
+blake  | hsr | myr-gr | scryptn | veltor | x16s
+blake2s  | jha | neoscrypt | sha256d | veltor | x17
+blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan
+c11  | keccakc | penta | sha256t | x11 | yescrypt
+deep  | lbry | phi | sib |yescryptR32 | x11evo
+dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16
+aergo  | lyra2 | polytimos | skunk | x13 | groestl
 
 
 Sample frontend of yiimp software mining pool
