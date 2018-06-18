@@ -6,13 +6,13 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 ### For paid personalized pool setup service, quick support please contact
 
-> Discord:      **@goodthebest#6606**
+- Discord:      **@goodthebest#6606**
 
-> Skype:        **onlinebuybiz@gmail.com**
+- Skype:        **onlinebuybiz@gmail.com**
 
-> Email:        **onlinebuybiz@gmail.com**
+- Email:        **onlinebuybiz@gmail.com**
 
-> Telegram:     **@goodthebest**
+- Telegram:     **@goodthebest**
 
 #### YIIMP SOFTWARE SUPPORTED ALGORIGHTMS FOR CRYPTOCURRENCY / COINS MINING
 
