@@ -12,7 +12,7 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 > Telegram:     **@goodthebest**
 
-First Header  | Second Header | First Header  | Second Header | First Header  | Second Header
+Algorithms  | Algorithms | Algorithms  | Algorithms | Algorithms  | Algorithms
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 argon2  | fresh | algo 5 | algo 5 | algo 5 | algo 5
 bastion  | hive | algo 6 | algo 5 | algo 5 | algo 5
