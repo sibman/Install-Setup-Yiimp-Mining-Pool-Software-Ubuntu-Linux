@@ -13,6 +13,7 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 > Telegram:     **@goodthebest**
 
 ##YIIMP SOFTWARE SUPPORTED ALGORIGHTMS
+
 Algos  | Algos | Algos  | Algos | Algos  | Algos
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 argon2  | fresh | lyra2v2 | quark | timetravel | x14
