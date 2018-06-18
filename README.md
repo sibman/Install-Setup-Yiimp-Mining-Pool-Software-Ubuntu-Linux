@@ -2,7 +2,7 @@
 
 For community suport join Discord server:  https://discord.gg/S7mwMb
 
-For paid personalized support please contact
+## For paid personalized support please contact
 
 > Discord:      **@goodthebest#6606**
 
