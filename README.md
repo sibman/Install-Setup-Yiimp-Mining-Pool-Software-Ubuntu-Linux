@@ -12,11 +12,18 @@ For free community suport join Discord server:  **https://discord.gg/S7mwMb**
 
 > Telegram:     **@goodthebest**
 
-Algorithms  | Algorithms2 | Algorithms2
+a5a  | lyra2 | Algorithms2 | Algorithms2 | Algorithms2 | Algorithms2
 ------------- | ------------- | -------------
-algo 1  | algo 2 | algo 5
-algo 3  | algo 4 | algo 6
-algo 7  | algo 8 | algo 9
+argon2  | fresh | algo 5 | algo 5 | algo 5 | algo 5
+bastion  | hive | algo 6 | algo 5 | algo 5 | algo 5
+bitcore  | hmq1725 | algo 9 | algo 5 | algo 5 | algo 5
+blake  | hsr | algo 9 | algo 5 | algo 5 | algo 5
+blake2s  | jha | algo 9 | algo 5 | algo 5 | algo 5
+blakecoin  | keccak | algo 9 | algo 5 | algo 5 | algo 5
+c11  | keccakc | algo 9 | algo 5 | algo 5 | algo 5
+deep  | lbry | algo 9 | algo 5 | algo 5 | algo 5
+dmd-gr  | luffa | algo 9 | algo 5 | algo 5 | algo 5
+
 
 Sample frontend of yiimp software mining pool
 ![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
