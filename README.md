@@ -1,8 +1,8 @@
 # BUILDING CYPTO COINS MINING POOL, SETUP YOUR OWN MINING POOL AND START MINING CRYPTOCURRENCIES OF YOUR CHOICE
 
-### Install and Configure Yiimp Mining Pool Software to Start your Own Mining Pool for Multiple Crypto Tokens & Coins
+### Install, Setup and Configure Yiimp Mining Pool Software to Start your Own Mining Pool for Multiple Crypto Tokens & Coins
 
-For free community suport join Discord server:  **https://discord.gg/S7mwMb**
+For free community suport for yiimp pool setup or troubleshooting, join Discord server:  **https://discord.gg/S7mwMb**
 
 ### For paid personalized pool setup service, quick support please contact
 
