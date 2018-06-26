@@ -14,7 +14,7 @@ For free community suport for yiimp pool setup or troubleshooting, join Discord 
 
 - Telegram:     **@goodthebest**
 
-#### YIIMP SOFTWARE SUPPORTED ALGORIGHTMS FOR CRYPTOCURRENCY / COINS MINING
+#### YIIMP SOFTWARE SUPPORTED ALGORITHMS FOR CRYPTOCURRENCY / COINS MINING
 
   Algos | Algos  | Algos | Algos | Algos  | Algos
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
