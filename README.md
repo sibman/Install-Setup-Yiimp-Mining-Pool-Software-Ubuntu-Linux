@@ -4,7 +4,7 @@
 
 For free community suport for yiimp pool setup or troubleshooting, join Discord server:  **https://discord.gg/S7mwMb**
 
-### For paid personalized pool setup service, quick support please contact
+### For paid personalized yiimp multi coins pool setup services, troubleshooting existing pools and quick support please contact
 
 - Discord:      **goodthebest#6606**
 
