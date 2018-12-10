@@ -34,10 +34,10 @@ aergo  | lyra2 | polytimos | skunk | x13 | groestl
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 Bitcoin	BTC | XRP	XRP | Ethereum ETH | Stellar XLM | Tether	USDT | Bitcoin Cash	BCH | EOS	EOS | Bitcoin SV	BSV
 Litecoin	LTC | TRON	TRX | Cardano	ADA | Monero	XMR | IOTA	MIOTA | NEM	XEM | Binance Coin	BNB | Dash	DASH
-bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r | x14 | x14
-blake  | hsr | myr-gr | scryptn | veltor | x16s | x14 | x14
-blake2s  | jha | neoscrypt | sha256d | veltor | x17 | x14 | x14
-blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan | x14 | x14
+Ethereum Classic ETC  | NEO	NEO | Zcash	ZEC | Dogecoin	DOGE | Maker	MKR | Tezos	XTZ | VeChain	VET | Bitcoin Gold	BTG
+TrueUSD	TUSD  | USD Coin	USDC | OmiseGO	OMG | 0x	ZRX | Paxos Standard PAX | Basic Attention Token BAT | Ontology	ONT | Decred	DCR
+Waves	WAVES  | Qtum	QTUM | Lisk	LSK | Bytecoin	BCN | Nano	NANO | Bitcoin Diamond	BCD | Zilliqa	ZIL | Factom	FCT
+DigiByte	DGB  | ICON	ICX | BitShares	BTS | Aurora	AOA | Siacoin	SC | Aeternity	AE | Verge	XVG | Gemini Dollar	GUSD
 c11  | keccakc | penta | sha256t | x11 | yescrypt | x14 | x14
 deep  | lbry | phi | sib |yescryptR32 | x11evo | x14 | x14
 dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16 | x14 | x14
