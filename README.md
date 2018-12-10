@@ -31,7 +31,7 @@ aergo  | lyra2 | polytimos | skunk | x13 | groestl
 #### We can setup most multi or single mining pools for most of below mention crypto currencies with few exceptions
 
   Crypto Mining | Cyrptocurrencies | Mining Pools | Altcoin | MiningPool  | Alt Currency  | Cyrpto coins | Mine |
-------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
+------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 Bitcoin	BTC | XRP	XRP | Ethereum ETH | Stellar XLM | Tether	USDT | Bitcoin Cash	BCH | EOS	EOS 
 Litecoin	LTC | TRON	TRX | Cardano	ADA | Monero	XMR | IOTA	MIOTA | NEM	XEM | Binance Coin	BNB 
 Ethereum Classic ETC  | NEO	NEO | Zcash	ZEC | Dogecoin	DOGE | Maker	MKR | Tezos	XTZ | VeChain	VET 
