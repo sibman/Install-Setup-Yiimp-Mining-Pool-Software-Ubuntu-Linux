@@ -42,10 +42,10 @@ Pundi X	NPXS  | Chainlink	LINK | Steem	STEEM | QASH	QASH | MaidSafeCoin	MAID | B
 Augur	REP  | Revain	R | Golem	GNT | Stratis	STRAT | Decentraland	MANA | Holo	HOT | Electroneum	ETN | Cryptonex	CNX
 Dai	DAI  | Huobi Token	HT | WAX	WAX | Status	SNT | Ardor	ARDR | DEX	DEX | MobileGo	MGO | IOST	IOST
 ODEM	ODE  | KuCoin Shares	KCS | Insight Chain	INB | Nexo	NEXO | MOAC	MOAC | Bitcoin Private	BTCP | Waltonchain	WTC | Metaverse ETP
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+Elastos	ELA  | Wanchain	WAN | Ark	ARK | STASIS EURS	EURS | QuarkChain	QKC | aelf	ELF | Linkey	LKY | ReddCoin	RDD
+PIVX	PIVX  | Aion	AION | Ravencoin	RVN | Polymath	POLY | THETA	THETA | Bancor	BNT | Centrality	CENNZ | MonaCoin	MONA
+GXChain	GXS  | Mithril	MITH | Crypto.com	MCO | Zcoin	XZC | Mixin	XIN | Nxt	NXT | Loopring	LRC | DigixDAO	DGD
+Loom Network	LOOM  | TenX	PAY | Endor Protocol	EDR | Power Ledger	POWR | HyperCash HC | ProximaX	XPX | Digitex Futures	DGTX | Nebulas	NAS
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 argon2  | fresh | lyra2v2 | quark | timetravel | x14 | x14 | x14
