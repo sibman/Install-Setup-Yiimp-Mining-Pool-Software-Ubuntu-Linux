@@ -46,9 +46,9 @@ Elastos	ELA  | Wanchain	WAN | Ark	ARK | STASIS EURS	EURS | QuarkChain	QKC | aelf
 PIVX	PIVX  | Aion	AION | Ravencoin	RVN | Polymath	POLY | THETA	THETA | Bancor	BNT | Centrality	CENNZ | MonaCoin	MONA
 GXChain	GXS  | Mithril	MITH | Crypto.com	MCO | Zcoin	XZC | Mixin	XIN | Nxt	NXT | Loopring	LRC | DigixDAO	DGD
 Loom Network	LOOM  | TenX	PAY | Endor Protocol	EDR | Power Ledger	POWR | HyperCash HC | ProximaX	XPX | Digitex Futures	DGTX | Nebulas	NAS
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-argon2  | fresh | lyra2v2 | quark | timetravel | x14 | x14 | x14
+Horizen	ZEN  | XYO Network	XYO | Nasdacoin	NSD | Dentacoin	DCN | FunFair	FUN | WaykiChain	WICC | Veritaseum	VERI | Dropil	DROP
+SIRIN LABS Token	SRN  | Kin	KIN | Smartlands	SLT | BOScoin	BOS | CyberMiles	CMT | Byteball Bytes	GBYTE | Enjin Coin	ENJ | BHPCash	BHPC
+Eidoo	EDO  | SingularityNET	AGI | Civic	CVC | Enigma	ENG | Credo	CREDO | Fusion	FSN | Dragonchain	DRGN | Gas	GAS
 bastion  | hive | lyra2z | qubit | tribus | x15 | x14 | x14
 bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r | x14 | x14
 blake  | hsr | myr-gr | scryptn | veltor | x16s | x14 | x14
