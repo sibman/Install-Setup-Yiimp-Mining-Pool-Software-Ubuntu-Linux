@@ -48,21 +48,21 @@ GXChain	GXS  | Mithril	MITH | Crypto.com	MCO | Zcoin	XZC | Mixin	XIN | Nxt	NXT |
 Loom Network	LOOM  | TenX	PAY | Endor Protocol	EDR | Power Ledger	POWR | HyperCash HC | ProximaX	XPX | Digitex Futures	DGTX | 
 Horizen	ZEN  | XYO Network	XYO | Nasdacoin	NSD | Dentacoin	DCN | FunFair	FUN | WaykiChain	WICC | Veritaseum	VERI | 
 SIRIN LABS Token	SRN  | Kin	KIN | Smartlands	SLT | BOScoin	BOS | CyberMiles	CMT | Byteball Bytes	GBYTE | Enjin Coin	ENJ | 
-Eidoo	EDO  | SingularityNET	AGI | Civic	CVC | Enigma	ENG | Credo	CREDO | Fusion	FSN | Dragonchain	DRGN | Gas	GAS
-SmartCash	SMART  | Bibox Token	BIX | Kyber Network	KNC | Syscoin	SYS | Storj	STORJ | SALT	SALT | Maximine Coin	MXM | Bread	BRD
-Substratum	SUB  | Dent	DENT | GoChain	GO | Groestlcoin	GRS | PumaPay	PMA | Cortex	CTXC | Nuls	NULS | Tokenomy	TEN
-Genesis Vision	GVT  | Gnosis	GNO | Iconomi	ICN | Republic Prot	REN | Nexus	NXS | Request Network	REQ | Unobtanium	UNO | Peercoin	PPC
-Energi	NRG  | THEKEY	TKY | iExec RLC	RLC | PRIZM	PZM | Cindicator	CNDCindicator	CND | APIS	APIS | Optimal Shelf	OSA | Spectreai Di	SXDT
-Credits	CS  | Telcoin	TEL | Quant	QNT | Mainframe	MFT | ETERNAL TOKEN	XET | Emercoin	EMC | Odyssey	OCN | Particl	PART
-Neblio	NEBL  | Aragon	ANT | Storm	STORM | Neumark	NEU | Wagerr	WGR | RChain	RHOC | TokenPay	TPAY | Vitae	VITAE
-Santiment Net	SAN  | Moeda Loyalty	MDA | Ignis	IGNIS | BnkToTheFuture	BFT | Poet	POE | Noah Coin	NOAH | CRYPTO	C | OneRoot Network	RNT
-Bezant	BZNT  | Gifto	GTO | Vertcoin	VTC | Scryinfo	DDD | Burst	BURST | Everipedia	IQ | DMarket	DMT | Streamr DATAcoin	DATA
-IoTeX	IOTX  | TokenClub	TCT | Darico Ecosys	DEC | OST	OST | Einsteinium	EMC | Ubiq	UBQ | Cube	AUTO | Pillar	PLR
-BridgeCoin	BCO  | STACS	STACS | Matrix AI Net	MAN | SaluS	SLS | Raiden Networ	RDN | TrueChain	TRUE | Safe Exchange	SAFEX | WhiteCoin	XWC
-Bitcoin SV	BSV  | Dash	DASH | Bitcoin Gold	BTG | Decred	DCR | Factom	FCT | Gemini Dollar	GUSD | Populous	PPT | Cryptonex	CNX
-IOST	IOST  | Metaverse ETP | ReddCoin	RDD | MonaCoin	MONA | DigixDAO	DGD | Nebulas	NAS | Dropil	DROP | BHPCash	BHPC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+Eidoo	EDO  | SingularityNET	AGI | Civic	CVC | Enigma	ENG | Credo	CREDO | Fusion	FSN | Dragonchain	DRGN | 
+SmartCash	SMART  | Bibox Token	BIX | Kyber Network	KNC | Syscoin	SYS | Storj	STORJ | SALT	SALT | Maximine Coin	MXM | 
+Substratum	SUB  | Dent	DENT | GoChain	GO | Groestlcoin	GRS | PumaPay	PMA | Cortex	CTXC | Nuls	NULS | 
+Genesis Vision	GVT  | Gnosis	GNO | Iconomi	ICN | Republic Prot	REN | Nexus	NXS | Request Network	REQ | Unobtanium	UNO | 
+Energi	NRG  | THEKEY	TKY | iExec RLC	RLC | PRIZM	PZM | Cindicator	CNDCindicator	CND | APIS	APIS | Optimal Shelf	OSA | 
+Credits	CS  | Telcoin	TEL | Quant	QNT | Mainframe	MFT | ETERNAL TOKEN	XET | Emercoin	EMC | Odyssey	OCN | 
+Neblio	NEBL  | Aragon	ANT | Storm	STORM | Neumark	NEU | Wagerr	WGR | RChain	RHOC | TokenPay	TPAY | 
+Santiment Net	SAN  | Moeda Loyalty	MDA | Ignis	IGNIS | BnkToTheFuture	BFT | Poet	POE | Noah Coin	NOAH | CRYPTO	C | 
+Bezant	BZNT  | Gifto	GTO | Vertcoin	VTC | Scryinfo	DDD | Burst	BURST | Everipedia	IQ | DMarket	DMT | 
+IoTeX	IOTX  | TokenClub	TCT | Darico Ecosys	DEC | OST	OST | Einsteinium	EMC | Ubiq	UBQ | Cube	AUTO | 
+BridgeCoin	BCO  | STACS	STACS | Matrix AI Net	MAN | SaluS	SLS | Raiden Networ	RDN | TrueChain	TRUE | Safe Exchange	SAFEX | 
+Bitcoin SV	BSV  | Dash	DASH | Bitcoin Gold	BTG | Decred	DCR | Factom	FCT | Gemini Dollar	GUSD | Populous	PPT | 
+IOST	IOST  | Metaverse ETP | ReddCoin	RDD | MonaCoin	MONA | DigixDAO	DGD | Nebulas	NAS | Dropil	DROP | 
+Gas	GAS  | Bread	BRD | Tokenomy	TEN | Peercoin	PPC | Spectreai Di	SXDT | Particl	PART | Vitae	VITAE | 
+Streamr DATAcoin	DATA  | Pillar	PLR | WhiteCoin	XWC | Cryptonex	CNX | BHPCash	BHPC | OneRoot Network	RNT | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 argon2  | fresh | lyra2v2 | quark | timetravel | x14 | x14 | x14
 bastion  | hive | lyra2z | qubit | tribus | x15 | x14 | x14
