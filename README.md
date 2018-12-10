@@ -56,9 +56,9 @@ Energi	NRG  | THEKEY	TKY | iExec RLC	RLC | PRIZM	PZM | Cindicator	CNDCindicator	
 Credits	CS  | Telcoin	TEL | Quant	QNT | Mainframe	MFT | ETERNAL TOKEN	XET | Emercoin	EMC | Odyssey	OCN | Particl	PART
 Neblio	NEBL  | Aragon	ANT | Storm	STORM | Neumark	NEU | Wagerr	WGR | RChain	RHOC | TokenPay	TPAY | Vitae	VITAE
 Santiment Net	SAN  | Moeda Loyalty	MDA | Ignis	IGNIS | BnkToTheFuture	BFT | Poet	POE | Noah Coin	NOAH | CRYPTO	C | OneRoot Network	RNT
-dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16 | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+Bezant	BZNT  | Gifto	GTO | Vertcoin	VTC | Scryinfo	DDD | Burst	BURST | Everipedia	IQ | DMarket	DMT | Streamr DATAcoin	DATA
+IoTeX	IOTX  | TokenClub	TCT | Darico Ecosys	DEC | OST	OST | Einsteinium	EMC | Ubiq	UBQ | Cube	AUTO | Pillar	PLR
+BridgeCoin	BCO  | STACS	STACS | Matrix AI Net	MAN | SaluS	SLS | Raiden Networ	RDN | TrueChain	TRUE | Safe Exchange	SAFEX | WhiteCoin	XWC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
