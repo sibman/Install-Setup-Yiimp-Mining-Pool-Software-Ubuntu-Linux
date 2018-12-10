@@ -62,10 +62,10 @@ BridgeCoin	BCO  | STACS	STACS | Matrix AI Net	MAN | SaluS	SLS | Raiden Networ	RD
 Bitcoin SV	BSV  | Dash	DASH | Bitcoin Gold	BTG | Decred	DCR | Factom	FCT | Gemini Dollar	GUSD | Populous	PPT 
 IOST	IOST  | Metaverse ETP | ReddCoin	RDD | MonaCoin	MONA | DigixDAO	DGD | Nebulas	NAS | Dropil	DROP 
 Gas	GAS  | Bread	BRD | Tokenomy	TEN | Peercoin	PPC | Spectreai Di	SXDT | Particl	PART | Vitae	VITAE 
-Streamr DATAcoin	DATA  | Pillar	PLR | WhiteCoin	XWC | Cryptonex	CNX | BHPCash	BHPC | OneRoot Network	RNT | x14   
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Streamr DATAcoin	DATA  | Pillar	PLR | WhiteCoin	XWC | Cryptonex	CNX | BHPCash	BHPC | OneRoot Network	RNT | UTRUST	UTK   
+AMO Coin	AMO  | Nucleus Vision	NCASH | Moss Coin	MOC | Blocknet	BLOCK | Gulden	NLG | bitCNY	BITCNY | High Performa	HPB
+Bluzelle	BLZ  | Wowbit	WWB | ARBITRAGE	ARB | districtx	DNT | Skycoin	SKY | MediBloc [ERC]	MEDX | Quantstamp	QSP
+BitBay	BAY  | Jibrel Network	JNT | SmartMesh	SMT | BOX Token	BOX | United Trader	UTT | Quantum Resis	QRL | Cryptaur	CPT
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
