@@ -40,8 +40,8 @@ Waves	WAVES  | Qtum	QTUM | Lisk	LSK | Bytecoin	BCN | Nano	NANO | Bitcoin Diamond
 DigiByte	DGB  | ICON	ICX | BitShares	BTS | Aurora	AOA | Siacoin	SC | Aeternity	AE | Verge	XVG | Gemini Dollar	GUSD
 Pundi X	NPXS  | Chainlink	LINK | Steem	STEEM | QASH	QASH | MaidSafeCoin	MAID | Bytom	BTM | Komodo	KMD | Populous	PPT
 Augur	REP  | Revain	R | Golem	GNT | Stratis	STRAT | Decentraland	MANA | Holo	HOT | Electroneum	ETN | Cryptonex	CNX
-dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16 | x14 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+Dai	DAI  | Huobi Token	HT | WAX	WAX | Status	SNT | Ardor	ARDR | DEX	DEX | MobileGo	MGO | IOST	IOST
+ODEM	ODE  | KuCoin Shares	KCS | Insight Chain	INB | Nexo	NEXO | MOAC	MOAC | Bitcoin Private	BTCP | Waltonchain	WTC | Metaverse ETP
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
