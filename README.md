@@ -66,9 +66,9 @@ Streamr DATAcoin	DATA  | Pillar	PLR | WhiteCoin	XWC | Cryptonex	CNX | BHPCash	BH
 AMO Coin	AMO  | Nucleus Vision	NCASH | Moss Coin	MOC | Blocknet	BLOCK | Gulden	NLG | bitCNY	BITCNY | High Performa	HPB
 Bluzelle	BLZ  | Wowbit	WWB | ARBITRAGE	ARB | districtx	DNT | Skycoin	SKY | MediBloc [ERC]	MEDX | Quantstamp	QSP
 BitBay	BAY  | Jibrel Network	JNT | SmartMesh	SMT | BOX Token	BOX | United Trader	UTT | Quantum Resis	QRL | Cryptaur	CPT
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Breezecoin	BRZC  | TomoChain	TOMO | NIX	NIX | EDinar Coin	EDR | Ambrosus	AMB | DigitalNote	XDN | Zipper	ZIP
+avCoin	NAV  | Loki	LOKI | Metal	MTL | Ethos	ETHOS | BLOCKv	VEE | Steem Dollars	SBD | Time New Bank	TNB
+LEOcoin	LEO  | ETHLend	LEND | ZrCoin	ZRC | Cosmo Coin	COSM | Ruff	RUFF | CasinoCoin	CSC | Crypterium	CRPT
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
