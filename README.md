@@ -53,9 +53,9 @@ SmartCash	SMART  | Bibox Token	BIX | Kyber Network	KNC | Syscoin	SYS | Storj	STO
 Substratum	SUB  | Dent	DENT | GoChain	GO | Groestlcoin	GRS | PumaPay	PMA | Cortex	CTXC | Nuls	NULS | Tokenomy	TEN
 Genesis Vision	GVT  | Gnosis	GNO | Iconomi	ICN | Republic Prot	REN | Nexus	NXS | Request Network	REQ | Unobtanium	UNO | Peercoin	PPC
 Energi	NRG  | THEKEY	TKY | iExec RLC	RLC | PRIZM	PZM | Cindicator	CNDCindicator	CND | APIS	APIS | Optimal Shelf	OSA | Spectreai Di	SXDT
-blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan | x14 | x14
-c11  | keccakc | penta | sha256t | x11 | yescrypt | x14 | x14
-deep  | lbry | phi | sib |yescryptR32 | x11evo | x14 | x14
+Credits	CS  | Telcoin	TEL | Quant	QNT | Mainframe	MFT | ETERNAL TOKEN	XET | Emercoin	EMC | Odyssey	OCN | Particl	PART
+Neblio	NEBL  | Aragon	ANT | Storm	STORM | Neumark	NEU | Wagerr	WGR | RChain	RHOC | TokenPay	TPAY | Vitae	VITAE
+Santiment Net	SAN  | Moeda Loyalty	MDA | Ignis	IGNIS | BnkToTheFuture	BFT | Poet	POE | Noah Coin	NOAH | CRYPTO	C | OneRoot Network	RNT
 dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16 | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
