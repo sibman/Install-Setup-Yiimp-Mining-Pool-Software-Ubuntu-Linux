@@ -51,8 +51,8 @@ SIRIN LABS Token	SRN  | Kin	KIN | Smartlands	SLT | BOScoin	BOS | CyberMiles	CMT 
 Eidoo	EDO  | SingularityNET	AGI | Civic	CVC | Enigma	ENG | Credo	CREDO | Fusion	FSN | Dragonchain	DRGN | Gas	GAS
 SmartCash	SMART  | Bibox Token	BIX | Kyber Network	KNC | Syscoin	SYS | Storj	STORJ | SALT	SALT | Maximine Coin	MXM | Bread	BRD
 Substratum	SUB  | Dent	DENT | GoChain	GO | Groestlcoin	GRS | PumaPay	PMA | Cortex	CTXC | Nuls	NULS | Tokenomy	TEN
-blake  | hsr | myr-gr | scryptn | veltor | x16s | x14 | x14
-blake2s  | jha | neoscrypt | sha256d | veltor | x17 | x14 | x14
+Genesis Vision	GVT  | Gnosis	GNO | Iconomi	ICN | Republic Prot	REN | Nexus	NXS | Request Network	REQ | Unobtanium	UNO | Peercoin	PPC
+Energi	NRG  | THEKEY	TKY | iExec RLC	RLC | PRIZM	PZM | Cindicator	CNDCindicator	CND | APIS	APIS | Optimal Shelf	OSA | Spectreai Di	SXDT
 blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan | x14 | x14
 c11  | keccakc | penta | sha256t | x11 | yescrypt | x14 | x14
 deep  | lbry | phi | sib |yescryptR32 | x11evo | x14 | x14
