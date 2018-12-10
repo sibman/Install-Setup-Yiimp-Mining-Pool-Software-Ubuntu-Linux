@@ -32,8 +32,8 @@ aergo  | lyra2 | polytimos | skunk | x13 | groestl
 
   Crypto Mining | Cyrptocurrencies | Mining Pools | Altcoin | MiningPool  | Alt Currency  | Cyrpto coins | Mine |
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-Bitcoin	BTC | XRP	XRP | Ethereum ETH | Stellar XLM | timetravel | x14 | x14 | x14
-bastion  | hive | lyra2z | qubit | tribus | x15 | x14 | x14
+Bitcoin	BTC | XRP	XRP | Ethereum ETH | Stellar XLM | Tether	USDT | Bitcoin Cash	BCH | EOS	EOS | Bitcoin SV	BSV
+Litecoin	LTC | TRON	TRX | Cardano	ADA | Monero	XMR | IOTA	MIOTA | NEM	XEM | Binance Coin	BNB | Dash	DASH
 bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r | x14 | x14
 blake  | hsr | myr-gr | scryptn | veltor | x16s | x14 | x14
 blake2s  | jha | neoscrypt | sha256d | veltor | x17 | x14 | x14
