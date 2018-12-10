@@ -30,7 +30,7 @@ aergo  | lyra2 | polytimos | skunk | x13 | groestl
 
 #### YIIMP SOFTWARE SUPPORTED ALGORITHMS FOR CRYPTOCURRENCY / COINS MINING
 
-  Crypto Mining | Cyrptocurrencies | Mining Pools | Altcoin | MiningPool  | Alt Currency  | Cyrpto coins Mining |
+  Crypto Mining | Cyrptocurrencies | Mining Pools | Altcoin | MiningPool  | Alt Currency  | Cyrpto coins | Mine |
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 argon2  | fresh | lyra2v2 | quark | timetravel | x14 | x14 | x14
 bastion  | hive | lyra2z | qubit | tribus | x15 | x14 | x14
