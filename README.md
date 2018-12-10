@@ -30,24 +30,24 @@ aergo  | lyra2 | polytimos | skunk | x13 | groestl
 
 #### YIIMP SOFTWARE SUPPORTED ALGORITHMS FOR CRYPTOCURRENCY / COINS MINING
 
-  Algos | Algos  | Algos | Algos | Algos  | Algos  | Algos
-------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-argon2  | fresh | lyra2v2 | quark | timetravel | x14 | x14
-bastion  | hive | lyra2z | qubit | tribus | x15 | x14
-bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r | x14
-blake  | hsr | myr-gr | scryptn | veltor | x16s | x14
-blake2s  | jha | neoscrypt | sha256d | veltor | x17 | x14
-blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan | x14
-c11  | keccakc | penta | sha256t | x11 | yescrypt | x14
-deep  | lbry | phi | sib |yescryptR32 | x11evo | x14
-dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16 | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+  Crypto Mining | Cyrptocurrencies | Mining Pools | Altcoin | MiningPool  | Alt Currency  | Cyrpto coins Mining
+------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+argon2  | fresh | lyra2v2 | quark | timetravel | x14 | x14 | x14
+bastion  | hive | lyra2z | qubit | tribus | x15 | x14 | x14
+bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r | x14 | x14
+blake  | hsr | myr-gr | scryptn | veltor | x16s | x14 | x14
+blake2s  | jha | neoscrypt | sha256d | veltor | x17 | x14 | x14
+blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan | x14 | x14
+c11  | keccakc | penta | sha256t | x11 | yescrypt | x14 | x14
+deep  | lbry | phi | sib |yescryptR32 | x11evo | x14 | x14
+dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16 | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
+aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14 | x14
 
 
 
