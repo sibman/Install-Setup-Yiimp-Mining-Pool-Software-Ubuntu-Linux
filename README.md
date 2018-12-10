@@ -49,8 +49,8 @@ Loom Network	LOOM  | TenX	PAY | Endor Protocol	EDR | Power Ledger	POWR | HyperCa
 Horizen	ZEN  | XYO Network	XYO | Nasdacoin	NSD | Dentacoin	DCN | FunFair	FUN | WaykiChain	WICC | Veritaseum	VERI | Dropil	DROP
 SIRIN LABS Token	SRN  | Kin	KIN | Smartlands	SLT | BOScoin	BOS | CyberMiles	CMT | Byteball Bytes	GBYTE | Enjin Coin	ENJ | BHPCash	BHPC
 Eidoo	EDO  | SingularityNET	AGI | Civic	CVC | Enigma	ENG | Credo	CREDO | Fusion	FSN | Dragonchain	DRGN | Gas	GAS
-bastion  | hive | lyra2z | qubit | tribus | x15 | x14 | x14
-bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r | x14 | x14
+SmartCash	SMART  | Bibox Token	BIX | Kyber Network	KNC | Syscoin	SYS | Storj	STORJ | SALT	SALT | Maximine Coin	MXM | Bread	BRD
+Substratum	SUB  | Dent	DENT | GoChain	GO | Groestlcoin	GRS | PumaPay	PMA | Cortex	CTXC | Nuls	NULS | Tokenomy	TEN
 blake  | hsr | myr-gr | scryptn | veltor | x16s | x14 | x14
 blake2s  | jha | neoscrypt | sha256d | veltor | x17 | x14 | x14
 blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan | x14 | x14
