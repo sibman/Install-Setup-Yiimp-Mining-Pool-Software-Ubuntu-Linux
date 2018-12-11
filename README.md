@@ -86,11 +86,11 @@ ToaCoin	TOA  | Refereum	RFR | Presearch	PRE | Linda	LINDA | MediShares	MDS | All
 GameCredits	GAME  | ALQO	XLQ | Bitcore	BTX | Bitcoin Green	BITG | IHT Real Esta	IHT | LGO Exchange	LGO | Blocktix	TIX
 SpankChain	SPANK  | ION	ION | Polybius	PLBT | SophiaTX	SPHTX | DAPS Token	DAPS | DECENT	DCT | Ternio	TERN
 LBRY Credits	LBC  | QLC Chain	QLC | SPINDLE	SPD | Rublix	RBLX | Everex	EVX | BANKEX	BKX | Dignity	DIG
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Melon	MLN  | HorusPay	HORUS | Apex	CPX | BitZ Token	BZ | Humanscape	HUM | Primas	PST | PACcoin	PAC
+Dock	DOCK  | Flash	FLASH | Bottos	BTO | YOYOW	YOYOW | Bulwark	BWK | AppCoins	APPC | Peerplays	PPY
+AirSwap	AST  | Etherparty	FUEL | FLO	FLO | Seele	SEELE | Gamecom	GTC | Monetha	MTH | Travalacom	AVA
+Robotina	ROX  | Viberate	VIB | Vipstar Coin	VIPS | Feathercoin	FTC | Xaurum	XAUR | TEFOOD	TFD | Universa	UTNP
+Moneytoken	IMT  | Unikoin Gold	UKG | CPChain	CPC | Omnitude	ECOM | atron	PAT | TaTaTu	TTU | Pepe Cash	PEPECASH
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
