@@ -95,8 +95,8 @@ Numeraire	NMR  | Aeon	AEON | DeepBrain Chain	DBC | TRONCLASSIC	TRXC | Bismuth	BI
 Cobinhood	COB  | Zen Protocol	ZP | Bloom	BLT | Paragon	PRG | Shift	SHIFT | ATN	ATN | Blue Whale Token	BWX
 adToken	ADT  | NANJCOIN	NANJ | chain	ZCN | HTMLCOIN	HTML | Digix Gold Token	DGX | Lamden	TAU | Diamond	DMD
 LATOKEN	LA  | INO COIN	INO | RevolutionVR	RVR | KickCoin	KICK | Six Domain Chain	SDA | SafeInsure	SINS | Phore	PHR
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Synthetix Net	SNX  | Aeron	ARN | XinFin Network	XDCE | Lunyr	LUN | Sentinel Prot	UPP | SwissBorg	CHSB | BrahmaOS	BRM
+Playgroundz	IOG  | SwftCoin	SWFTC | BlackCoin	BLK | ICE ROCK MINING	ROCK | Everus	EVR | BitTube	TUBE | XEL	XEL
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
