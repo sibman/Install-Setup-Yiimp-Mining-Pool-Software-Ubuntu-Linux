@@ -123,17 +123,17 @@ STK	STK  | MorpheusNetwork	MRPH | Musicoin	MUSIC | Tolar	TOL | Welltrado	WTL | A
 Solaris	XLR  | Banca	BANCA | Sharder	SS | Hacken	HKN | BitSend	BSD | MidasProtocol	MAS | Howdoo	UDOO
 NewYorkCoin	NYC  | DAEX	DAX | FarmaTrust	FTT | RightMesh	RMESH | CanonChain	CZR | EnergiToken	ETK | Cappasity	CAPP
 ALAX	ALX  | VINchain	VIN | OracleChain	OCT | Chronobank	TIME | BitMart Token	BMX | TraDove BBCoin	BBC | GoNetwork	GOT
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Spectreai Ut	SXUT  | Gems	GEM | DAV Coin	DAV | TrueFlip	TFL | Matchpool	GUP | Zeusshield	ZSC | Swarm City	SWT
+Ethersocial	ESN  | WABnetwork	WAB | Zephyr	ZEPH | Masari	MSR | Neurotoken	NTK | Ormeus Coin	ORME | ugChain	UGC
+Airbloc	ABL  | Litex	LXT | Omni	OMNI | DeviantCoin	DEV | Patientory	PTOY | Egretia	EGT | EXRNchain	EXRN
+indaHash	IDH  | GoByte	GBX | Pedity	PEDI | DAOstack	GEN | Constellation	DAG | OnLive	ONL | Experty	EXY
+Shivom	OMX  | ContentBox	BOX | Gentarium	GTM | TrustNote	TTT | Cryptosolartech	CST | GeoCoin	GEO | Golos	GOLOS
+Molecule	MOL  | WeAreSatoshi	WSX | Ink Protocol	XNK | Rivetz	RVT | Bodhi	BOT | Capricoin	CPC | EncrypGen	DNA
+Medicalchain	MTN  | ALIS	ALIS | SIBCoin	SIB | sUSD	SUSD | Novacoin	NVC | Olive	OLE | DubaiCoin	DBIX
+Gene Source C	GENE  | SelfSell	SSC | Trinity Netwo	TNC | Vexanium	VEX | NoLimitCoin	NLC | Dovu	DOV | Sequence	SEQ
+OKCash	OK  | Turtlecoin	TRTL | Sphere	SPHR | REAL	REAL | GoldCoin	GLD | BDT Token	BDT | Elite
+Banyan Network	BBN  | Pirl	PIRL | The Abyss	ABYSS | LogisCoin	LGS | Morpheus Labs	MITX | Debitum	DEB | Formosa Finan	FMF
+OneLedger	OLT  | NEW	KWATT | Expanse	EXP | Merculet	MVP | RED	RED | EchoLink	EKO | BOXX Token BOXX
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
