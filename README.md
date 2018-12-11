@@ -111,11 +111,11 @@ ThoreCoin	THR  | Change	CAG | Peculium	PCL | TaaS	TAAS | Birake	BIR | MARKSPACE	
 Eximchain	EXC  | XMax	XMX | DATx	DATX | carVertical	CV | LUXCoin	LUX | Bezop	BEZ | Remme	REM
 Ulord	UT  | UpToken	UP | Decision Token	HST | Blocktrade Token	BTT | U Network	UUU | Xriba	XRA | ATC Coin	ATCC
 VeriCoin	VRC  | PolySwarm	NCT | OAX	OAX | Hydro Protocol	HOT | MktCoin	MLM | EDUCare	EKT | Spectrecoin	XSPEC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+IXT	IXT  | HyperSpace	AMP | Semux	SEM | BitDice	CSNO | FuzeX	FXT | LocalCoinSwap	LCS | TRAXIA	TMT
+Niobium Coin	NBC  | Karma	KRM | EBCoin	EBC | DeepOnion	ONION | Nimiq	NIM | SIX	SIX | Snetwork	SNET
+LinkEye	LET  | PRASM	PSM | Yocoin	YOC | Skrumble Network	SKM | Humaniq	HMQ | DACSEE	DACS | AI Doctor	AIDOC
+Liquidity Net	LQD  | Ubex	UBEX | Delphy	DPY | CashBet Coin	CBC | Pura	PURA | Kind Ads Token	KIND | MintCoin	MINT
+CVCoin	CVN  | ZelCash	ZEL | Global Social	GSC | NeuroChain	NCC | CargoX	CXO | ZPER	ZPR | HollyWoodCoin	HWC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
