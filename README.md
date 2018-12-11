@@ -97,13 +97,13 @@ adToken	ADT  | NANJCOIN	NANJ | chain	ZCN | HTMLCOIN	HTML | Digix Gold Token	DGX 
 LATOKEN	LA  | INO COIN	INO | RevolutionVR	RVR | KickCoin	KICK | Six Domain Chain	SDA | SafeInsure	SINS | Phore	PHR
 Synthetix Net	SNX  | Aeron	ARN | XinFin Network	XDCE | Lunyr	LUN | Sentinel Prot	UPP | SwissBorg	CHSB | BrahmaOS	BRM
 Playgroundz	IOG  | SwftCoin	SWFTC | BlackCoin	BLK | ICE ROCK MINING	ROCK | Everus	EVR | BitTube	TUBE | XEL	XEL
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+QunQun	QUN  | BlockMason Cr	BCPT | NKN	NKN | Hi Mutual Soc	HMC | Eden	EDN | SpaceChain	SPC | MinexCoin	MNX
+Business Cred	BCAC  | Zeepin	ZPT | CEEK VR	CEEK | Crown	CRW | WeShow Token	WET | Graft	GRFT | SureRemit	RMT
+Agrello	DLT  | Hiveterminal 	HVN | Smartshare	SSP | Bean Cash	BITB | Callisto Network	CLO | Sentinel	SENT | Scorum Coins	SCR
+Waves Communi	WCT  | Polis	POLIS | Consensus	SEN | Dimecoin	DIME | Global Curren	GCR | HalalChain	HLC | AVINOC	AVINOC
+DADI	DADI  | TVTWO	TTV | Lightpaycoin	LPC | ElectrifyAsia	ELEC | Brickblock	BBK | Myriad	XMY | RealTract	RET
+Blackmoon	BMC  | Switcheo	SWTH | Online	OIO | PotCoin	POT | DxChain Token	DX | Winding Tree	LIF | Etheroll	DICE
+Lendingblock	LND  | Ink	INK | MonetaryUnit	MUE | GridCoin	GRC | Soarcoin	SOAR | HempCoin	THC | Insureum	ISR
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
