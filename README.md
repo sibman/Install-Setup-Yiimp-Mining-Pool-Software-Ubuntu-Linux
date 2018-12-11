@@ -83,9 +83,9 @@ Haven Protocol	XHV  | Internet Node	INT | VITE	VITE | Tierion	TNT | Metronome	ME
 REPO	REPO  | PCHAIN	PAI | Restart Energ	MWAT | bitUSD	BITUSD | Timicoin	TMC | Blox	CDT | Asch	XAS
 Dero	DERO  | Mothership	MSP | Mercury	MER | Lympo	LYM | Happycoin	HPC | FairCoin	FAIR | Envion	EVN
 ToaCoin	TOA  | Refereum	RFR | Presearch	PRE | Linda	LINDA | MediShares	MDS | All Sports	SOC | Primecoin	XPM
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+GameCredits	GAME  | ALQO	XLQ | Bitcore	BTX | Bitcoin Green	BITG | IHT Real Esta	IHT | LGO Exchange	LGO | Blocktix	TIX
+SpankChain	SPANK  | ION	ION | Polybius	PLBT | SophiaTX	SPHTX | DAPS Token	DAPS | DECENT	DCT | Ternio	TERN
+LBRY Credits	LBC  | QLC Chain	QLC | SPINDLE	SPD | Rublix	RBLX | Everex	EVX | BANKEX	BKX | Dignity	DIG
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
