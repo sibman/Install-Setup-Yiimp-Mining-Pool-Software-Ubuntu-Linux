@@ -134,11 +134,11 @@ Gene Source C	GENE  | SelfSell	SSC | Trinity Netwo	TNC | Vexanium	VEX | NoLimitC
 OKCash	OK  | Turtlecoin	TRTL | Sphere	SPHR | REAL	REAL | GoldCoin	GLD | BDT Token	BDT | Elite
 Banyan Network	BBN  | Pirl	PIRL | The Abyss	ABYSS | LogisCoin	LGS | Morpheus Labs	MITX | Debitum	DEB | Formosa Finan	FMF
 OneLedger	OLT  | NEW	KWATT | Expanse	EXP | Merculet	MVP | RED	RED | EchoLink	EKO | BOXX Token BOXX
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+ArtByte	ABY  | MIB Coin	MIB | CYCLEAN	CCL | Autonio	NIO | Fox Trading	FOXT | Qwark	QWARK | DNotes	NOTE
+AidCoin	AID  | AirWire	WIRE | Silent Notary	SNTR | Zap	ZAP | Aventus	AVT | SHIELD	XSH | Arionum	ARO
+Curecoin	CURE  | VULCANO	VULC | Uquid Coin	UQC | Nework	NKC | WeTrust	TRST | EffectAI	EFX | FoldingCoin	FLDC
+HiCoin	XHI  | Forkcoin	FORK | QChi	QCH | Syndicate	SYNX | Friendz	FDZ | AdShares	ADST | Sharpe Platfo	SHP
+Starbase	STAR  | Measurable Da	MDT | Hashgard	GARD | Energo	TSL | PinkCoin	PINK | CoinPoker	CHP | Insights Network	INSTAR
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
