@@ -116,13 +116,13 @@ Niobium Coin	NBC  | Karma	KRM | EBCoin	EBC | DeepOnion	ONION | Nimiq	NIM | SIX	S
 LinkEye	LET  | PRASM	PSM | Yocoin	YOC | Skrumble Network	SKM | Humaniq	HMQ | DACSEE	DACS | AI Doctor	AIDOC
 Liquidity Net	LQD  | Ubex	UBEX | Delphy	DPY | CashBet Coin	CBC | Pura	PURA | Kind Ads Token	KIND | MintCoin	MINT
 CVCoin	CVN  | ZelCash	ZEL | Global Social	GSC | NeuroChain	NCC | CargoX	CXO | ZPER	ZPR | HollyWoodCoin	HWC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+DomRaider	DRT  | aXpire	AXPR | Bitcoin Incog	XBI | ChatCoin	CHAT | Maecenas	ART | HashCoin	HSC | LINA	LINA
+SUQA	SUQA  | Circuits of V	COVAL | Unibright	UBT | Phantasma	SOUL | Crowd Machine	CMCT | POPCHAIN	PCH | Auroracoin	AUR
+Flixxo	FLIXX  | Cardstack	CARD | Kcash	KCASH | Stellite	XTL | ZMINE	ZMN | SunContract	SNC | Paypex	PAYX
+STK	STK  | MorpheusNetwork	MRPH | Musicoin	MUSIC | Tolar	TOL | Welltrado	WTL | AMLT	AMLT | UNIVERSAL CASH	UCASH
+Solaris	XLR  | Banca	BANCA | Sharder	SS | Hacken	HKN | BitSend	BSD | MidasProtocol	MAS | Howdoo	UDOO
+NewYorkCoin	NYC  | DAEX	DAX | FarmaTrust	FTT | RightMesh	RMESH | CanonChain	CZR | EnergiToken	ETK | Cappasity	CAPP
+ALAX	ALX  | VINchain	VIN | OracleChain	OCT | Chronobank	TIME | BitMart Token	BMX | TraDove BBCoin	BBC | GoNetwork	GOT
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
