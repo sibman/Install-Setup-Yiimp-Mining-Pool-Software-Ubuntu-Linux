@@ -69,13 +69,13 @@ BitBay	BAY  | Jibrel Network	JNT | SmartMesh	SMT | BOX Token	BOX | United Trader
 Breezecoin	BRZC  | TomoChain	TOMO | NIX	NIX | EDinar Coin	EDR | Ambrosus	AMB | DigitalNote	XDN | Zipper	ZIP
 avCoin	NAV  | Loki	LOKI | Metal	MTL | Ethos	ETHOS | BLOCKv	VEE | Steem Dollars	SBD | Time New Bank	TNB
 LEOcoin	LEO  | ETHLend	LEND | ZrCoin	ZRC | Cosmo Coin	COSM | Ruff	RUFF | CasinoCoin	CSC | Crypterium	CRPT
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Propy	PRO  | MediBloc [QRC]	MED | polytimosBABB	BAX | SONM	SNM | Cred	LBA | NAGA	NGC | Apollo Currency	APL
+AdEx	ADX  | Swarm	SWM | Counterparty	XCP | Namecoin	NMC | Red Pulse Pho	PHX | Rotharium	RTH | Arcblock	ABT
+Genaro Network	GNX  | SCRL	SCRL | Wings	WINGS | Modum	MOD | Insolar	INS | Quanta Utilit	QNTU | Buggyra Coin 	BCZERO
+DATA	DTA  | Stakenet	XSN | IoT Chain	ITC | Nexty	NTY | NaPoleonX	NPX | GINcoin	GIN | Viacoin	VIA
+LockTrip	LOC  | TokenCard	TKN | WePower	WPR | VIBE	VIBE | ParkinGo	GOT | Loopring [NEO]	LRN | TTC Protocol	TTC
+Selfkey	KEY  | TrueDeck	TDP | LoyalCoin	LYL | Storiqa	STQ | EvenCoin	EVN | Wabi	WABI | POA Network	POA
+AurumCoin	AU  | Sakura Bloom	SKB | SingularDTV	SNGLS | Edgeless	EDG | Covesting	COV | Boolberry	BBR | XTRABYTES	XBY
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
