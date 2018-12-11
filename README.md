@@ -91,10 +91,10 @@ Dock	DOCK  | Flash	FLASH | Bottos	BTO | YOYOW	YOYOW | Bulwark	BWK | AppCoins	APP
 AirSwap	AST  | Etherparty	FUEL | FLO	FLO | Seele	SEELE | Gamecom	GTC | Monetha	MTH | Travalacom	AVA
 Robotina	ROX  | Viberate	VIB | Vipstar Coin	VIPS | Feathercoin	FTC | Xaurum	XAUR | TEFOOD	TFD | Universa	UTNP
 Moneytoken	IMT  | Unikoin Gold	UKG | CPChain	CPC | Omnitude	ECOM | atron	PAT | TaTaTu	TTU | Pepe Cash	PEPECASH
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Numeraire	NMR  | Aeon	AEON | DeepBrain Chain	DBC | TRONCLASSIC	TRXC | Bismuth	BIS | eosDAC	EOSDAC | Bitcoin Atom	BCA
+Cobinhood	COB  | Zen Protocol	ZP | Bloom	BLT | Paragon	PRG | Shift	SHIFT | ATN	ATN | Blue Whale Token	BWX
+adToken	ADT  | NANJCOIN	NANJ | chain	ZCN | HTMLCOIN	HTML | Digix Gold Token	DGX | Lamden	TAU | Diamond	DMD
+LATOKEN	LA  | INO COIN	INO | RevolutionVR	RVR | KickCoin	KICK | Six Domain Chain	SDA | SafeInsure	SINS | Phore	PHR
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
