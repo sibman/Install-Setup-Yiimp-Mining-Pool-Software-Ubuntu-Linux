@@ -76,11 +76,11 @@ DATA	DTA  | Stakenet	XSN | IoT Chain	ITC | Nexty	NTY | NaPoleonX	NPX | GINcoin	G
 LockTrip	LOC  | TokenCard	TKN | WePower	WPR | VIBE	VIBE | ParkinGo	GOT | Loopring [NEO]	LRN | TTC Protocol	TTC
 Selfkey	KEY  | TrueDeck	TDP | LoyalCoin	LYL | Storiqa	STQ | EvenCoin	EVN | Wabi	WABI | POA Network	POA
 AurumCoin	AU  | Sakura Bloom	SKB | SingularDTV	SNGLS | Edgeless	EDG | Covesting	COV | Boolberry	BBR | XTRABYTES	XBY
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Ripio Credit 	RCN  | Litecoin Cash	LCC | OriginTrail	TRAC | Mobius	MOBI | Fantom	FTM | Own	CHX | CyberVein	CVT
+ZClassic	ZCL  | CrypticCoin	CRYP | Pascal Coin	PASC | Clams	CLAM | Tripio	TRIO | Electra	ECA | CloakCoin	CLOAK
+Hydro	HYDRO  | Achain	ACT | Cashaa	CAS | Fortuna	FOTA | BitKan	KAN | Content Neutr	CNN | doccom Token	MTC
+Haven Protocol	XHV  | Internet Node	INT | VITE	VITE | Tierion	TNT | Metronome	MET | BBX	BB | Metadium	META
+REPO	REPO  | PCHAIN	PAI | Restart Energ	MWAT | bitUSD	BITUSD | Timicoin	TMC | Blox	CDT | Asch	XAS
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
