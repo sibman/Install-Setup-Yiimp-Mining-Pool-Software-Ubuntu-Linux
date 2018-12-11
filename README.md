@@ -108,9 +108,9 @@ FansTime	FTI  | Mass Vehicle 	MVL | YGGDRASH	YEED | Distributed C	DCC | Olympus 
 Aurora DAO	AURA  | Stealth	XST | Zebi	ZCO | YEE	YEE | Rise	RISE | ColossusXT	COLX | Divi	DIVI
 Radium	RADS  | OWNDATA	OWN | FirstBlood	ST | DIMCOIN	DIM | Experience Po	XP | Pal Network	PAL | Blockport	BPT
 ThoreCoin	THR  | Change	CAG | Peculium	PCL | TaaS	TAAS | Birake	BIR | MARKSPACE	MRK | MassGrid	MGD
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Eximchain	EXC  | XMax	XMX | DATx	DATX | carVertical	CV | LUXCoin	LUX | Bezop	BEZ | Remme	REM
+Ulord	UT  | UpToken	UP | Decision Token	HST | Blocktrade Token	BTT | U Network	UUU | Xriba	XRA | ATC Coin	ATCC
+VeriCoin	VRC  | PolySwarm	NCT | OAX	OAX | Hydro Protocol	HOT | MktCoin	MLM | EDUCare	EKT | Spectrecoin	XSPEC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
