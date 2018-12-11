@@ -148,12 +148,12 @@ BitCrystals	BCY | Devery	EVE | OptiToken	OPTI | BitcoinZ	BTCZ | Zero	ZER | HeroN
 BitScreener Token	BITX  | Blue Protocol	BLUE | Datawallet	DXT | Ryo Currency	RYO | Aphelion	APH | ClearPoll	POLL | Colu Local Ne	CLN
 AiLink Token	ALI  | Sense	SENSE | InterCrone	ICR | adbank	ADB | Rate	RTE | Sprouts	SPRTS | IP Exchange	IPSX
 Bee Token	BEE  | Leverj	LEV | InterValue	INVE | AICHAIN	AIT | UChain	UCN | CoinFi	COFI | EDRCoin	EDRC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+BitRent	RNTB  | MyBit	MYB | Invacio	INV | AC	AC | Block Array	ARY | HEROcoin	PLAY | FREE Coin	FREE
+Miners' Rewar	MRT  | CanYaCoin	CAN | Niobio Cash	NBR | Zilla	ZLA | Relex	RLX | Internxt	INXT | PikcioChain	PKC
+Bettex Coin	BTXC  | Clipper Coin	CCCX | ProChain	PRA | Privatix	PRIX | FintruX Network	FTX | Helbiz	HBZ | Internet of People	IOP
+JET	JT  | Bethereum	BETHER | LikeCoin	LIKE | Sovereign Hero | HeartBout	HB | BetterBetting	BETR | Worldcore	WRC
+Bountyx	BNTY  | LetheaMTC Mesh Network	MTCn	LTHN | TransferCoin	TX | Giant	GIC | BitClave	CAT | Spde	SPX | SkinCoin	SKIN
+LiteDoge	LDOGE  | Bela	BELA | DOWCOIN	DOW | skunk | Memetic Pep	MEME | Lynx	LYNX | Thrive Token	THRT
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
