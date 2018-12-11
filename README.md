@@ -104,10 +104,10 @@ Waves Communi	WCT  | Polis	POLIS | Consensus	SEN | Dimecoin	DIME | Global Curren
 DADI	DADI  | TVTWO	TTV | Lightpaycoin	LPC | ElectrifyAsia	ELEC | Brickblock	BBK | Myriad	XMY | RealTract	RET
 Blackmoon	BMC  | Switcheo	SWTH | Online	OIO | PotCoin	POT | DxChain Token	DX | Winding Tree	LIF | Etheroll	DICE
 Lendingblock	LND  | Ink	INK | MonetaryUnit	MUE | GridCoin	GRC | Soarcoin	SOAR | HempCoin	THC | Insureum	ISR
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+FansTime	FTI  | Mass Vehicle 	MVL | YGGDRASH	YEED | Distributed C	DCC | Olympus Labs	MOT | DecentBet	DBET | Ivy	IVY
+Aurora DAO	AURA  | Stealth	XST | Zebi	ZCO | YEE	YEE | Rise	RISE | ColossusXT	COLX | Divi	DIVI
+Radium	RADS  | OWNDATA	OWN | FirstBlood	ST | DIMCOIN	DIM | Experience Po	XP | Pal Network	PAL | Blockport	BPT
+ThoreCoin	THR  | Change	CAG | Peculium	PCL | TaaS	TAAS | Birake	BIR | MARKSPACE	MRK | MassGrid	MGD
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
