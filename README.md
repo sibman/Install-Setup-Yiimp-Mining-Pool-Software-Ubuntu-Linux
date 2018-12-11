@@ -81,8 +81,8 @@ ZClassic	ZCL  | CrypticCoin	CRYP | Pascal Coin	PASC | Clams	CLAM | Tripio	TRIO |
 Hydro	HYDRO  | Achain	ACT | Cashaa	CAS | Fortuna	FOTA | BitKan	KAN | Content Neutr	CNN | doccom Token	MTC
 Haven Protocol	XHV  | Internet Node	INT | VITE	VITE | Tierion	TNT | Metronome	MET | BBX	BB | Metadium	META
 REPO	REPO  | PCHAIN	PAI | Restart Energ	MWAT | bitUSD	BITUSD | Timicoin	TMC | Blox	CDT | Asch	XAS
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Dero	DERO  | Mothership	MSP | Mercury	MER | Lympo	LYM | Happycoin	HPC | FairCoin	FAIR | Envion	EVN
+ToaCoin	TOA  | Refereum	RFR | Presearch	PRE | Linda	LINDA | MediShares	MDS | All Sports	SOC | Primecoin	XPM
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
