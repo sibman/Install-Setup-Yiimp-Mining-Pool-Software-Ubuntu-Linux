@@ -139,15 +139,15 @@ AidCoin	AID  | AirWire	WIRE | Silent Notary	SNTR | Zap	ZAP | Aventus	AVT | SHIEL
 Curecoin	CURE  | VULCANO	VULC | Uquid Coin	UQC | Nework	NKC | WeTrust	TRST | EffectAI	EFX | FoldingCoin	FLDC
 HiCoin	XHI  | Forkcoin	FORK | QChi	QCH | Syndicate	SYNX | Friendz	FDZ | AdShares	ADST | Sharpe Platfo	SHP
 Starbase	STAR  | Measurable Da	MDT | Hashgard	GARD | Energo	TSL | PinkCoin	PINK | CoinPoker	CHP | Insights Network	INSTAR
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+World	WO  | Dynamic	DYN | SiaCashCoin	SCC | LatiumX	LATX | savedroid	SVD | Swisscoin	SIC | Cashbery Coin	CBC
+Seal Network	SEAL  | HOQU	HQX | Veros	VRS | VouchForMe	IPL | LIFE	LIFE | Upfiring	UFR | Digital Asset	DAGT
+ExclusiveCoin	EXCL  | Qbao	QBT | xBitcoin	xBTC | Alphacat	ACAT | Arbidex	ABX | Uniform Fisca	UFO | Kore	KORE
+Education Eco	LEDU  | Atonomi	ATMI | FLIP	FLP | Truegame	TGAME | Coinsuper Eco	CEN | Stox	STX | ATLANT	ATL
+Playkey	PKT  | GIVE	GIVE | NPER	NPER | Mallcoin	MLC | Acute Angle C	AAC | Hexx	HXX | SnovianSpace	SNOV
+BitCrystals	BCY | Devery	EVE | OptiToken	OPTI | BitcoinZ	BTCZ | Zero	ZER | HeroNode	HER | StrongHands	SHND
+BitScreener Token	BITX  | Blue Protocol	BLUE | Datawallet	DXT | Ryo Currency	RYO | Aphelion	APH | ClearPoll	POLL | Colu Local Ne	CLN
+AiLink Token	ALI  | Sense	SENSE | InterCrone	ICR | adbank	ADB | Rate	RTE | Sprouts	SPRTS | IP Exchange	IPSX
+Bee Token	BEE  | Leverj	LEV | InterValue	INVE | AICHAIN	AIT | UChain	UCN | CoinFi	COFI | EDRCoin	EDRC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
