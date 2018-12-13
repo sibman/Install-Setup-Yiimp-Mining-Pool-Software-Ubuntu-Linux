@@ -28,7 +28,7 @@ dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16
 aergo  | lyra2 | polytimos | skunk | x13 | groestl
 
 
-## We can setup most multi or single algo coins mining pools for most of below mentioned crypto currencies with few exceptions
+# We Can Setup Single and  Multi Algo/Coins Mining Pools for Most Crypto Currencies Listed below with few Exceptions
 
   Crypto Mining | Cyrptocurrencies | Mining Pools | Altcoin | MiningPool  | Alt Currency  | Cyrpto coins 
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
