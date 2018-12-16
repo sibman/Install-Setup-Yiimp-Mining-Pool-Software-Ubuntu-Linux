@@ -154,20 +154,20 @@ Bettex Coin	BTXC  | Clipper Coin	CCCX | ProChain	PRA | Privatix	PRIX | FintruX N
 JET	JT  | Bethereum	BETHER | LikeCoin	LIKE | Sovereign Hero | HeartBout	HB | BetterBetting	BETR | Worldcore	WRC
 Bountyx	BNTY  | LetheaMTC Mesh Network	MTCn	LTHN | TransferCoin	TX | Giant	GIC | BitClave	CAT | Spde	SPX | SkinCoin	SKIN
 LiteDoge	LDOGE  | Bela	BELA | DOWCOIN	DOW | skunk | Memetic Pep	MEME | Lynx	LYNX | Thrive Token	THRT
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+JSECOIN	JSE  | Daneel	DAN | VeriumReserve	VRM | Faceter	FACE | ZCore	ZCR | Traceability 	TAC | Bob's Repair	BOB
+Opus	OPT  | InvestFeed	IFT | Matryx	MTX | Social Send	SEND | BiblePay	BBP | Wixlar	WIX | FedoraCoin	TIPS
+WCoin	WC  | SRCOIN	SRCOIN | TrakInvest	TRAK | Credit Tag Chain	CTC | Terracoin	TRC | EncryptoTel ETT | Thingschain	TIC
+LOCIcoin	LOCI  | HOLD	HOLD | Guaranteed Ethurance	GETX | Apollon	XAP | LALA World	LALA | EventChain	EVC | Trittium	TRTT
+Elixir	ELIX  | BoutsPro	BOUTS | Profile Utili	PUT | XcelToken	XCEL | Sentinel Chain	SENC | NuBits	USNBT | White Standard	WSD
+Nexium	NXC  | smARTOFGIVING	AOG | MedicCoin	MEDIC | Tokenbox	TBX | Tokenbox	TBX | Fire Lotto	FLOT | CryptoCarbon	CCRB
+Kalkulus	KLKS  | DopeCoin	DOPE | Menlo One	ONE | GoldMint	MNTP | Zippie	ZIPT | Pundi X NEM	NPXSXEM | Etheera	ETA
+Neutron	NTRN  | eBoost	EBST | Rentberry	BERRY | Karbo	KRB | Bitzeny	ZNY | CannabisCoin	CANN | SnowGem	XSG
+iEthereum	IETH  | Sumokoin	SUMO | AdHive	ADH | Travelflex	TRF | Indorse Token	IND | eBitcoin	EBTC | Sharpay S
+DPRating	RATING  | RefToken	REF | MNPCoin	MNP | SnodeCoin	SND | Divi Exchange	DIVX | Parkgene	GENE | MetaMorph	METM
+QuadrantProtocol	EQUAD  | eGulden	EFL | SURETY	SURE | Proton Token	PTT | ShareX	SEXC | GenesisX	XGS | Repme	RPM
+FSBT API Token	FSBT  | Kryll	KRL | Narrative	NRVE | Voise	VOISE | Universal Cur	UNIT | Pluton	PLU | XMCT	XMCT
+IQeon	IQN  | BitCoen	BEN | VeriME	VME | Sapien	SPN | Pylon Network	PYLNT | SkyHub Coin	SHB | bitJob	STU
+Maverick Chain	MVC  | Bitswift	BITS | ATBCoin	ATB | Nullex	NLX | Kora Network 	KNT | FUTURAX	FTXT | Auctus	AUC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
