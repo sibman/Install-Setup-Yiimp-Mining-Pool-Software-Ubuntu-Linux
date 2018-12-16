@@ -168,10 +168,10 @@ QuadrantProtocol	EQUAD  | eGulden	EFL | SURETY	SURE | Proton Token	PTT | ShareX	
 FSBT API Token	FSBT  | Kryll	KRL | Narrative	NRVE | Voise	VOISE | Universal Cur	UNIT | Pluton	PLU | XMCT	XMCT
 IQeon	IQN  | BitCoen	BEN | VeriME	VME | Sapien	SPN | Pylon Network	PYLNT | SkyHub Coin	SHB | bitJob	STU
 Maverick Chain	MVC  | Bitswift	BITS | ATBCoin	ATB | Nullex	NLX | Kora Network 	KNT | FUTURAX	FTXT | Auctus	AUC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+The ChampCoin	TCC  | Cpollo	CPLO | Utrum	OOT | Bonpay	BON | Rupee	RUP | HunterCoin	HUC | SoMeeSocial	ONG
+Freyrchain	FREC  | Bigbom	BBO | CoinToGo	GO | ACE (TokenStars)	ACE | Bodhi (ETH)	BOE | TrezarCoin	TZC | Quantis Network	QUAN
+SyncFab	MFG  | EXMR	EXMR | Leadcoin	LDC | EquiTrader	EQT | RealChain	RCT | JuryOnline JOT | SportyCo	SPF
+EtherGem	EGEM  | Octoin Coin	OCC | Naviaddress	NAVI | imbrex	REX | GCN Coin	GCN | Blocklancer	LNC | DaTa eXchange	DTX
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
