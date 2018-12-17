@@ -197,9 +197,9 @@ GreenMed	GRMD  | Azart	AZART | PAXEX	PAXEX | Decentralized	DATP | Mainstream For
 Cryptrust	CTRT  | Nyerium	NYEX | Havy	HAVY | Abulaba	AAA | Gossipcoin	GOSS | Ether Kingdom	IMP | BitCoin One	BTCONE
 YoloCash	YLC  | Joint Ventures	JOINT | KUN	KUN | Cyber Movie Chain (CMCT) | Peony	PNY | DACH Coin	DACH | MODELXcoin	MODX
 RusGas	RGS  | Bolenum	BLN | Oyster	PRL | Nectar	NEC | Gold Bits Coin	GBC | Dynamic Tradi	DTR | Tao	XTO
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Bitcoin Interest	BCI  | COSS	COSS | Lykke	LKK | BitNewChain	BTN | DEW	DEW | Aston	ATX | Anoncoin	ANC
+Rialto	XRL  | Cofoundit	CFI | PlayCoin PLY | Ecobit	ECOB | Primalbase Token	PBT | ECC	ECC | PayPie	PPP
+Bittwatt	BWT  | Ecoreal Estate	ECOREAL | Rubycoin	RBY | GET Protocol	GET | Ondori	RSTR | Pandacoin	PND | I/O Coin	IOC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
