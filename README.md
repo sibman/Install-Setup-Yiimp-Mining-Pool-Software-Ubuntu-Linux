@@ -186,15 +186,15 @@ Amon	AMN  | Bitcoin Adult	BTAD | Gold Poker	GPKR | Blocknode	BND | Absolute	ABS 
 Beetle Coin	BEET  | AltEstate token	ALT | MFIT COIN	MFIT | XGOX	XGOX | nDEX	NDX | Linx	LINX | BitWhite	BTW
 ArbitrageCT	ARCT  | ArbitrageCT	ARCT | FORCE	FOR | PlatinumBAR	XPTX | Suretly	SUR | BBSCoin	BBS | Dorado	DOR
 Newton Coin Project | Sola Token	SOL | MicroMoney	AMM | MicroMoney	AMM | WITChain	WIT | Transcodium	TNS | PrimeStone	PSC
-Jetcoin	JET  | SCRIV NETWORK	SCRIV | Ccore	CCO | ZeusNetwork	ZEUS | Datarius Credit	DTRC | QYNO	QNO | QYNO	QNO
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Jetcoin	JET  | SCRIV NETWORK	SCRIV | Ccore	CCO | ZeusNetwork	ZEUS | Datarius Credit	DTRC | QYNO	QNO | AdCoin	ACC
+BunnyToken	BUNNY  | Unify	UNIFY | Waletoken	WTN | InflationCoin	IFLT | Bitblocks	BBK | PKG Token	PKG | Fivebalance	FBN
+Intelligent Token	ITT  | CryptoSoul	SOUL | CatoCoin	CATO | Plancoin	PLAN | Plancoin	PLAN | CyberMusic	CYMT | Bitcoin X	BTX
+WhaleCoin	WHL  | Escroco Emerald	ESCE | RouletteToken	RLT | KWHCoin	KWH | Altcoin	ALT | AceD	ACED | TEAM TEAM
+Bitcoinus	BITS  | Tourist Token	TOTO | TokenDesk	TDS | TokenDesk	TDS | MCAP	MCAP | GlobalToken	GLT | Crystal Token	CYL
+AquariusCoin	ARCO  | Neural Protocol	NRP | ELTCOIN	ELTCOIN | Steneum Coin	STN | Mirai	MRI | Phonecoin	PHON | VikkyToken	VIKKY
+VikkyToken	VIKKY  | Zenswap Netwo	ZNT | Bitether	BTR | Bitether	BTR | Numus	NMS | Sub Invest	SUBX | Thore Cash	TCH
+GreenMed	GRMD  | Azart	AZART | PAXEX	PAXEX | Decentralized	DATP | Mainstream For The Underground (MFTU) | DeltaChain	DELTA | Bionic	BNC
+Cryptrust	CTRT  | Nyerium	NYEX | Havy	HAVY | Abulaba	AAA | Gossipcoin	GOSS | Ether Kingdom	IMP | BitCoin One	BTCONE
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
