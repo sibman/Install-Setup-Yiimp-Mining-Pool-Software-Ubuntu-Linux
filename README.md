@@ -172,21 +172,21 @@ The ChampCoin	TCC  | Cpollo	CPLO | Utrum	OOT | Bonpay	BON | Rupee	RUP | HunterCo
 Freyrchain	FREC  | Bigbom	BBO | CoinToGo	GO | ACE (TokenStars)	ACE | Bodhi (ETH)	BOE | TrezarCoin	TZC | Quantis Network	QUAN
 SyncFab	MFG  | EXMR	EXMR | Leadcoin	LDC | EquiTrader	EQT | RealChain	RCT | JuryOnline JOT | SportyCo	SPF
 EtherGem	EGEM  | Octoin Coin	OCC | Naviaddress	NAVI | imbrex	REX | GCN Coin	GCN | Blocklancer	LNC | DaTa eXchange	DTX
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Galactrum	ORE  | Elementrem	ELE | EverGreenCoin	EGC | Soma	SCT | Photon	PHO | ClearCoin	XCLR | CyberFM	CYFM
+Ether	ETHO  | Verify	CRED | MMOCoin	MMO | Mao Zedong	MAO | CryptoFlow	CFL | Penguin Coin	PENG | EZToken	EZT
+Castle	CSTL  | BEAT	BEAT | More Coin	MORE | ModulTrade	MTRC | Origin Sport	ORS | CampusCoin	CMPCO | Hurify	HUR
+Provoco Token	VOCO  | XCash	XCASH | Kolion	KLN | Actinium	ACM | BlitzPredict	XBP | FundRequest	FND | XDNA	XDNA
+CFun	CFUN  | IONChain	IONC | bitSilver	BITSILVER | Cazcoin	CAZ | ABChain RTB	RTB | Condominium	CDM | Condominium	CDM
+ZINC	ZINC  | bitGold	BITGOLD | CREA	CREA | Webcoin	WEB | PutinCoin	PUT | No BS Crypto	NOBS | No BS Crypto	NOBS
+Zetacoin	ZET  | Iungo	ING | Elysian	ELY | Italian Lira	ITL | Xchange	XCG | Xchange	XCG | Rupaya	RUPX
+EUNOMIA	ENTS  | APR Coin	APR | Coinlancer	CL | Bitcoin Token	BTK | Aditus	ADI | xcert	ZXC | Teloscoin	TELOS
+GoHelpFund	HELP  | Lobstex	LOBS | Advanced Tech	ARC | Auxilium	AUX | Project Coin	PRJ | Ellaism	ELLA | Aegeus	AEG
+ERC	ERC  | ShowHand	HAND | Tokia	TKA | DraftCoin	DFT | AllSafe	ASAFE | CrowdWiz	WIZ | BriaCoin	BRIA
+Amon	AMN  | Bitcoin Adult	BTAD | Gold Poker	GPKR | Blocknode	BND | Absolute	ABS | Joulecoin	XJO | HireMatch	HIRE
+Beetle Coin	BEET  | AltEstate token	ALT | MFIT COIN	MFIT | XGOX	XGOX | nDEX	NDX | Linx	LINX | BitWhite	BTW
+ArbitrageCT	ARCT  | ArbitrageCT	ARCT | FORCE	FOR | PlatinumBAR	XPTX | Suretly	SUR | BBSCoin	BBS | Dorado	DOR
+Newton Coin Project | Sola Token	SOL | MicroMoney	AMM | MicroMoney	AMM | WITChain	WIT | Transcodium	TNS | PrimeStone	PSC
+Jetcoin	JET  | SCRIV NETWORK	SCRIV | Ccore	CCO | ZeusNetwork	ZEUS | Datarius Credit	DTRC | QYNO	QNO | QYNO	QNO
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
