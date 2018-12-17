@@ -205,14 +205,14 @@ Dotcoin	DOT  | AsiaCoin	AC | Espers	ESP | Espers	ESP | Grid+	GRID | RoBET	ROBET 
 TittieCoin	TIT  | Vetri	VLD | Nebula AI	NBAI | ATMChain	ATM | LoMoCoin	LMC | Databits	DTB | Soniq	SONIQ
 Gambit	GAM  | Coinvest	COIN | Gravity	GZRO | SolarCoin	SLR | bitqy	BQ | Open Platform	OPEN | Motocoin	MOTO
 XPA	XPA  | XX Token	XX | Hubii Network	HBT | Starta	STA | Proxeus	XES | Vites	VITES | FNKOS	FNKOS
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Fluz Fluz	FLUZ  | APX	APX | Mysterium	MYST | CHIPS	CHIPS | Kleros	PNK | CommerceBlock	CBT | Cryptopay	CPAY
+BCoin	KB  | FoodCoin	FOOD| BitDegree	BDG | Vezt	VZT | COPYTRACK	CPY | Noku	NOKU | ShipChain	SHIP
+Smoke	SMOKE  | SounDAC	XSD | Global Awards	GAT | Tokes	TKS | Ifoods Chain	IFOOD | Linker Coin	LNC | BlueCoin	BLU
+REBL	REBL  | Goodomy	GOOD | Hush	HUSH | Bitcoin Plus	XBC | Helium	HLM | HEAT	HEAT | Vice Industry	VIT
+Ethbits	ETBS  | PetroDollar	XPD | Global Crypto	GCC | Lampix	PIX | NeosCoin	NEOS | Cruisebit	CRBT | Xenon	XNN
+Zeitcoin	ZEIT  | Oxycoin	OXY | Fidelium	FID | Level Up Coin	LUC | PHI Token	PHI | Atmos	ATMOS | Sociall	SCL
+Ergo	EFYT  | Breakout Stake	BRX | Manna	MANNA | Bullion	CBX | Ixcoin	IXC | Gladius Token	GLA | Tigereum	TIG
+Dether	DTH  | Monster Byte	MBI | OBITS	OBITS | Eristica	ERT | Pareto Network	PARETO | WorldCoin	WDC | Adelphoi	ADL
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
