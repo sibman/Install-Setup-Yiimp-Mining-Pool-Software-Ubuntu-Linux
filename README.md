@@ -200,11 +200,11 @@ RusGas	RGS  | Bolenum	BLN | Oyster	PRL | Nectar	NEC | Gold Bits Coin	GBC | Dynam
 Bitcoin Interest	BCI  | COSS	COSS | Lykke	LKK | BitNewChain	BTN | DEW	DEW | Aston	ATX | Anoncoin	ANC
 Rialto	XRL  | Cofoundit	CFI | PlayCoin PLY | Ecobit	ECOB | Primalbase Token	PBT | ECC	ECC | PayPie	PPP
 Bittwatt	BWT  | Ecoreal Estate	ECOREAL | Rubycoin	RBY | GET Protocol	GET | Ondori	RSTR | Pandacoin	PND | I/O Coin	IOC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Linfinity	LFT  | New Power Coin	NPW | DAOCasino	BET | Incent	INCNT | KARMA	KARMA | Puregold Token	PGT | Eroscoin	ERO
+Dotcoin	DOT  | AsiaCoin	AC | Espers	ESP | Espers	ESP | Grid+	GRID | RoBET	ROBET | Russian Miner	RMC
+TittieCoin	TIT  | Vetri	VLD | Nebula AI	NBAI | ATMChain	ATM | LoMoCoin	LMC | Databits	DTB | Soniq	SONIQ
+Gambit	GAM  | Coinvest	COIN | Gravity	GZRO | SolarCoin	SLR | bitqy	BQ | Open Platform	OPEN | Motocoin	MOTO
+XPA	XPA  | XX Token	XX | Hubii Network	HBT | Starta	STA | Proxeus	XES | Vites	VITES | FNKOS	FNKOS
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
