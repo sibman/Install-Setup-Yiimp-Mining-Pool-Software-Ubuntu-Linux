@@ -195,8 +195,8 @@ AquariusCoin	ARCO  | Neural Protocol	NRP | ELTCOIN	ELTCOIN | Steneum Coin	STN | 
 VikkyToken	VIKKY  | Zenswap Netwo	ZNT | Bitether	BTR | Bitether	BTR | Numus	NMS | Sub Invest	SUBX | Thore Cash	TCH
 GreenMed	GRMD  | Azart	AZART | PAXEX	PAXEX | Decentralized	DATP | Mainstream For The Underground (MFTU) | DeltaChain	DELTA | Bionic	BNC
 Cryptrust	CTRT  | Nyerium	NYEX | Havy	HAVY | Abulaba	AAA | Gossipcoin	GOSS | Ether Kingdom	IMP | BitCoin One	BTCONE
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+YoloCash	YLC  | Joint Ventures	JOINT | KUN	KUN | Cyber Movie Chain (CMCT) | Peony	PNY | DACH Coin	DACH | MODELXcoin	MODX
+RusGas	RGS  | Bolenum	BLN | Oyster	PRL | Nectar	NEC | Gold Bits Coin	GBC | Dynamic Tradi	DTR | Tao	XTO
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
