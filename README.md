@@ -277,11 +277,11 @@ Grimcoin	GRIM  | Olympic	OLMP | BitQuark	BTQ | BenjiRolls	BENJI | Qurito	QURO | 
 ARbit	ARB  | Jiyo JIYO | PRCoin	PRC | MustangCoin	MST | Fujinto	NTO | BowsCoin	BSC | PlayerCoin	PLACO
 Luna Coin	LUNA  | EcoCoin	ECO | Dollar Online	DOLLAR | LiteCoin Ultra	LTCU | Alpha Coin	APC | PLNcoin	PLNC | Benz	BENZ
 Bitvolt	VOLT  | Royal Kingdom	RKC | Wild Beast Block	WBB | Veltor	VLT | Rocketcoin	ROCK | AnarchistsPrime	ACP | GeertCoin	GEERT
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Concoin	CONX  | SongCoin	SONG | Simmitri	SIM | Coinonat	CXT | Coimatic 	CTIC | Bitspace	BSX | Save and Gain	SANDG
+Magnum	MGM  | ProjectX	NANOX | VapersCoin	VPRC | CrevaCoin	CREVA | Interzone	ITZ | Coimatic 	CTIC | PonziCoin	PONZI
+Ourcoin	OUR  | Argus	ARGUS | YENTEN	YTN | POLY AI	AI | HarmonyCoin	HMC | CJs	CJS | SHADE Token	SHADE
+SHADE Token	SHADE  | CK USD	CKUSD | ZB	ZB | Infinity Econ	XIN | Alibabacoin	ABBC | Project Pai	PAI | PlayCoin QRC PLY
+Filecoin  FIL  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
