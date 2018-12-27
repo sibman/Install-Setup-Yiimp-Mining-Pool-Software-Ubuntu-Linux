@@ -269,9 +269,9 @@ KingN Coin	KNC  | Rhenium	XRH | TajCoin	TAJ | Independent Money System	IMS | Pos
 Archetypal Network	ACTP  | PosEx	PEX | Acoin	ACOIN | UralsCoin	URALS | Litecred	LTCR | Kubera Coin	KBR | BitCoal	COAL
 High Voltage	HVCO  | Eurocoin	EUC | Eryllium	ERY | CryptoInsight	TKR | CBit	XCT | Bitcoin Planet	BTPL | Ragnarok	RAGNA
 BumbaCoin	BUMBA  | BROTHER	BRAT | Marijuanacoin	MAR | Neuro	NRO | Comet	CMT | SpeedCash	SCS | JIYO	JIYOX
-Bankcoin	B@  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Bankcoin	B@  | FuzzBalls	FUZZ | SOILcoin	SOIL | GambleCoin	GMCN | Nekonium	NUKO | Asiadigicoin	ADCN | JavaScript Token	JS
+VectorAI	VEC  | Cannation	CNNC | Kronecoin	KRONE | Zayedcoin	ZYD | Flaxscript	FLAX | BitF	BITF | Polcoin	PLC
+Phantomx	PNX  | ICOBID	ICOB | Elysium	ELS | LiteBitcoin	LBTC | Iconic	ICON | Coupecoin	COUPE | SocialCoin	SOCC
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
