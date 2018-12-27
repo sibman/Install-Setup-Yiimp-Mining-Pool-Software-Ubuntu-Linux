@@ -256,10 +256,10 @@ EthBet	EBET  | Carebit	CARE | Authorship	ATS | Cashcoin	CASH | Help The Home	HTH
 Quatloo	QTL  | Renos	RNS | Atheios	ATH | TEKcoin	TEK | Honey	HONEY | Dix Asset	DIX | Leviar	XLC
 Arion	ARION  | SecretCoin	SCRT | Jin Coin	JIN | Ethereum Dark	ETHD | Safe Trade Coin	XSTC | Zurcoin	ZUR | BigUp	BIGUP
 Coin(O)	CNO  | GrandCoin	GDC | GuccioneCoin	GCC | SixEleven | iBTC	IBTC | BOAT	BOAT | BoostCoin	BOST
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+BERNcash	BERN  | SONDER	SNR | Zoomba	ZBA | RevolverCoin	XRE | FLiK	FLIK | NevaCoin	NEVA | Accelerator Network (ACC)
+MojoCoin	MOJO  | Evil Coin	EVIL | Kurrent	KURT | ParallelCoin	DUO | PluraCoin	PLURA | RonPaulCoin	RPC | BZLCOIN	BZL
+IrishCoin	IRL  | Dinero	DIN | XCoin	XCO | Quebecoin	QBC | DROXNE	DRXNE | Peerguess	GUESS | SecureCoin	SRC
+Datacoin	DTC  | Harvest Maste	HC | GlobalBoostY	BSTY | Sparks	SPK | Dollarcoin	DLC | SAKECOIN	SAKE | IXTUS Edutain	IXE
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
