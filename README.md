@@ -272,10 +272,10 @@ BumbaCoin	BUMBA  | BROTHER	BRAT | Marijuanacoin	MAR | Neuro	NRO | Comet	CMT | Sp
 Bankcoin	B@  | FuzzBalls	FUZZ | SOILcoin	SOIL | GambleCoin	GMCN | Nekonium	NUKO | Asiadigicoin	ADCN | JavaScript Token	JS
 VectorAI	VEC  | Cannation	CNNC | Kronecoin	KRONE | Zayedcoin	ZYD | Flaxscript	FLAX | BitF	BITF | Polcoin	PLC
 Phantomx	PNX  | ICOBID	ICOB | Elysium	ELS | LiteBitcoin	LBTC | Iconic	ICON | Coupecoin	COUPE | SocialCoin	SOCC
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+MiloCoin	MILO  | Staker	STR | Virtacoin	VTA | Cabbage	CAB | PoSToken	POS | Pioneer Coin	PCOIN | PrimeXI	PXI
+Grimcoin	GRIM  | Olympic	OLMP | BitQuark	BTQ | BenjiRolls	BENJI | Qurito	QURO | Dalecoin	DALC | iBank	IBANK
+ARbit	ARB  | Jiyo JIYO | PRCoin	PRC | MustangCoin	MST | Fujinto	NTO | BowsCoin	BSC | PlayerCoin	PLACO
+Luna Coin	LUNA  | EcoCoin	ECO | Dollar Online	DOLLAR | LiteCoin Ultra	LTCU | Alpha Coin	APC | PLNcoin	PLNC | Benz	BENZ
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
