@@ -260,16 +260,16 @@ BERNcash	BERN  | SONDER	SNR | Zoomba	ZBA | RevolverCoin	XRE | FLiK	FLIK | NevaCo
 MojoCoin	MOJO  | Evil Coin	EVIL | Kurrent	KURT | ParallelCoin	DUO | PluraCoin	PLURA | RonPaulCoin	RPC | BZLCOIN	BZL
 IrishCoin	IRL  | Dinero	DIN | XCoin	XCO | Quebecoin	QBC | DROXNE	DRXNE | Peerguess	GUESS | SecureCoin	SRC
 Datacoin	DTC  | Harvest Maste	HC | GlobalBoostY	BSTY | Sparks	SPK | Dollarcoin	DLC | SAKECOIN	SAKE | IXTUS Edutain	IXE
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Master Swiscoin	MSCN  | BrokerNekoNet	BNN | Garlicoin	GRLC | Bit	BTWTY | Bit	BIT | Trident Group	TRDT | INDINODE	XIND
+Bank Coin	BANK  | FolmCoin	FLM | Atomic Coin	ATOM | SteepCoin	STEEP | ConnectJob	CJT | RedCoin	RED | SmartFox	FOX
+Nitro	NOX  | EZOOW	EZW | ACRE	ACRE | SoonCoin	SOON | Digital Money	DMB | Dreamcoin	DRM | Allion	ALL
+Fintab	FNTB  | Eternity	ENT | ParkByte	PKB | CompuCoin	CPN | AmsterdamCoin	AMS | HomeBlockCoin	HBC | CoinonatX	XCXT
+DeusCoin	DEUS  | Qbic	QBIC | Cheesecoin	CHEESE | ZoZoCoin	ZZC | Theresa May Coin	MAY | Californium	CF | GeyserCoin	GSR
+KingN Coin	KNC  | Rhenium	XRH | TajCoin	TAJ | Independent Money System	IMS | PostCoin	POST | Ammo Reloaded	AMMO | Centurion	CNT
+Archetypal Network	ACTP  | PosEx	PEX | Acoin	ACOIN | UralsCoin	URALS | Litecred	LTCR | Kubera Coin	KBR | BitCoal	COAL
+High Voltage	HVCO  | Eurocoin	EUC | Eryllium	ERY | CryptoInsight	TKR | CBit	XCT | Bitcoin Planet	BTPL | Ragnarok	RAGNA
+BumbaCoin	BUMBA  | BROTHER	BRAT | Marijuanacoin	MAR | Neuro	NRO | Comet	CMT | SpeedCash	SCS | JIYO	JIYOX
+Bankcoin	B@  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
