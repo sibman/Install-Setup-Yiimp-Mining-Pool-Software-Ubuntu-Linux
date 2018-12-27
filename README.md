@@ -281,13 +281,13 @@ Concoin	CONX  | SongCoin	SONG | Simmitri	SIM | Coinonat	CXT | Coimatic 	CTIC | B
 Magnum	MGM  | ProjectX	NANOX | VapersCoin	VPRC | CrevaCoin	CREVA | Interzone	ITZ | Coimatic 	CTIC | PonziCoin	PONZI
 Ourcoin	OUR  | Argus	ARGUS | YENTEN	YTN | POLY AI	AI | HarmonyCoin	HMC | CJs	CJS | SHADE Token	SHADE
 SHADE Token	SHADE  | CK USD	CKUSD | ZB	ZB | Infinity Econ	XIN | Alibabacoin	ABBC | Project Pai	PAI | PlayCoin QRC PLY
-Filecoin  FIL  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Filecoin  FIL  | CWV Chain	CWV | PLATINCOIN	PLC | BUMO	BU | Davinci Coin	DAC | ONG	ONG | The Midas Touch Gold TMTG
+Machine Xchan	MXC  | MIR COIN	MIR | Penta	PNT | HYCON	HYC | Ether Zero	ETZ | Atlas Protocol	ATP | DigiFinexToken	DFT
+KNOW	KNOW  | Super Bitcoin	SBTC | Consentium	CSM | Lightning Bit	LBTC | HyperQuant	HQT | EduCoin	EDU | Game Stars	GST
+ShineChain	SHE  | DACC	DACC | VestChain	VEST | Smart Bitcoin	RBTC | FairGame	FAIR | VisionX	VNX | nOS	NOS
+TopChain	TOPC  | HitChain	HIT | Eligma Token	ELI | StarChain	STC | IPChain	IPC | Molecular Future	MOF | VeThor Token	VTHO
+Influence Chain	INC  | PalletOne	PTN | YOU COIN	YOU | MyToken	MT | FOIN	FOIN | BitUP Token	BUT | WETH	WETH
+UnlimitedIP	UIP  | Themis	GET | CARAT	CARAT | BeeKan	BKBT | FuturoCoin	FTO | Globalvillage	GVE | InsurChain	INSUR
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
