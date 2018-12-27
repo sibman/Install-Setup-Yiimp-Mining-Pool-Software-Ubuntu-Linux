@@ -238,24 +238,24 @@ DarexTravel	DART  | Ethereum Cash	ECASH | Shadow Token	SHDW | HOdlcoin	HODL | Sp
 Musiconomi	MCI  | MagicCoin	MAGE | Megacoin	MEC | KanadeCoin	KNDC | Knekted	KNT | CROAT	CROAT | Elcoin	EL
 Citadel	CTL  | Iridium	IRD | Unitus	UIS | Sugar Exchange	SGR | Blakecoin	BLC | Blakecoin	BLC | Commercium	CMM
 Origami	ORI  | iTicoin	ITI | Bitcoin Fast	BCF | Bitsum	BSM | iDealCash	DEAL | iDealCash	DEAL | Triangles	TRI
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Billionaire XBL | SagaCoin	SAGA | PiplCoin	PIPL | KZ Cash	KZC | BitStation	BSTN | Nerves	NER | Jesus Coin	JC
+UltraNote Coin	XUN  | BTCtalkcoin	TALK | NetKoin	NTK | Litecoin Plus	LCP | SpreadCoin	SPR | Shekel	JEW | UltraCoin	UTC
+SuperCoin	SUPER  | Emerald Crypto	EMD | WavesGo	WGO | SGPay	SGP | Onix	ONX | Wispr	WSP | Startcoin	START
+Darcrus	DAR  | Digiwage	WAGE | BlockMesh	BMH | Bata	BTA | Bitstar	BITS | Swing	SWING | vSlice	VSL
+LiteBar	LTB  | LanaCoin	LANA | Golfcoin	GOLF | Tidex Token	TDX | Ratecoin	XRA | Emphy	EPY | Marscoin	MARS
+Nyancoin	NYAN  | Growers Inter	GRWI | Ethereum Gold	ETG | VIVO	VIVO | Bitcoin Red	BTCRED | Cream	CRM | ChessCoin	CHESS
+Arepacoin	AREPA  | Halcyon	HAL | Dystem	DTEM | Masternodecoin	MTNC | Bitcoin W Spectrum	BWS | Rimbit	RBT | Rubies	RBIES
+Titcoin	TIT  | Local World Forwarders LWF | OPCoinX	OPCX | Pure	PUREX | Version	V | EagleX	EGX | ProCurrency	PROC
+PRiVCY	PRIV  | Crowdholding	YUP | Obsidian	ODN | RPICoin	RPI | TOKYO	TOKC | Bitcoin 	XBTC | Darsek	KED
+ICO OpenLedger	ICOO  | Fantasy Cash	FANS | Joincoin	J | Synergy	SNRG | Synergy	SNRG | GoldBlocks	GB | InsaneCoin	INSN
+BLAST	BLAST  | Netko	NETKO | Senderon	SDRN | Bolivarcoin	BOLI | Aricoin	ARI | Dragonglass	DGS | Crystal Clear	CCT
+SmartCoin	SMC  | Wild Crypto	WILD | BitcoiNote	BTCN | Viuly	VIU | BlazeCoin	BLZ | VoteCoin	VOT | Bitdeal	BDL
+Creditbit	CRB  | Mincoin	MNC | Graphcoin	GRPH | Pascal Lite	PASL | Printex	PRTX | Earth Token	EARTH | Cryptojacks	CJ
+Impact	IMX  | Embers	MBRS | Pakcoin	PAK | dietbitcoin	DDX | Minereum	MNE | Signatum	SIGT | Tokugawa	TOK
+EthBet	EBET  | Carebit	CARE | Authorship	ATS | Cashcoin	CASH | Help The Home	HTH | PureVidz	VIDZ | IQcash	IQ
+Quatloo	QTL  | Renos	RNS | Atheios	ATH | TEKcoin	TEK | Honey	HONEY | Dix Asset	DIX | Leviar	XLC
+Arion	ARION  | SecretCoin	SCRT | Jin Coin	JIN | Ethereum Dark	ETHD | Safe Trade Coin	XSTC | Zurcoin	ZUR | BigUp	BIGUP
+Coin(O)	CNO  | GrandCoin	GDC | GuccioneCoin	GCC | SixEleven | iBTC	IBTC | BOAT	BOAT | BoostCoin	BOST
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
