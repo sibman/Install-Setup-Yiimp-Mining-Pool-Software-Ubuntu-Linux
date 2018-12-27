@@ -276,7 +276,7 @@ MiloCoin	MILO  | Staker	STR | Virtacoin	VTA | Cabbage	CAB | PoSToken	POS | Pione
 Grimcoin	GRIM  | Olympic	OLMP | BitQuark	BTQ | BenjiRolls	BENJI | Qurito	QURO | Dalecoin	DALC | iBank	IBANK
 ARbit	ARB  | Jiyo JIYO | PRCoin	PRC | MustangCoin	MST | Fujinto	NTO | BowsCoin	BSC | PlayerCoin	PLACO
 Luna Coin	LUNA  | EcoCoin	ECO | Dollar Online	DOLLAR | LiteCoin Ultra	LTCU | Alpha Coin	APC | PLNcoin	PLNC | Benz	BENZ
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Bitvolt	VOLT  | Royal Kingdom	RKC | Wild Beast Block	WBB | Veltor	VLT | Rocketcoin	ROCK | AnarchistsPrime	ACP | GeertCoin	GEERT
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
