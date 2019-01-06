@@ -315,12 +315,12 @@ wys Token	WYS  | Quotient	XQN | President Trump	PRES | OBXcoin	OBX | MobilinkTok
 BingoCoin	BOC  | Sphre AIR	XID | Traid	TRAID | Concierge Coin	CCC | SuperEdge	ECT | Cubits	QBT | SONO	SONO
 Pandemia	PNDM  | CoinPlay	CP | TerraNova	TER | Hero	HERO | PayDay Coin	PDX | Labh Coin	LABH | First Bitcoin	BIT
 EPLUS Coin	EPLUS  | Civitas	CIV | Trendercoin	TDC | Nuggets	NUG | ORS Group	ORS | Monero Original	XMO | ERA	ERA
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Indicoin	INDI  | Superior Coin	SUP | OmenCoin	OMEN | Crypto Improv	CIF | Agrolot	AGLT | Fargocoin	FRGC | TWIST	TWIST
+Zealium	NZL  | XTRD	XTRD | Bitbase	BTBc | Smart Applica	SAC | Mooncoin	MOON | HondaisCoin	HNDC | Magnetcoin	MAGN
+Runners	RUNNERS  | RECORD	RCD | RabbitCoin	RBBT | CommunityGene	CGEN | Budbo	BUBO | Pecunio	PCO | BlazerCoin	BLAZR
+Sakuracoin	SKR  | Hyper Pay	HPY | BetaCoin	BET | PlusOneCoin	PLUS | Delizia	DELIZ | PROUD Money	PROUD | BTCMoon	BTCM
+ACChain	ACC  | CryptalDash	CRD | Excaliburcoin	EXC | Centaure	CEN | Ethereum Lite	ELITE | MIRQ	MRQ | CoffeeCoin	CFC
+GIGA	XG  | STEX	STEX | Infinipay	IFP | Tellurion	TELL | ZenGold	ZENGOLD | Wi Coin	WIC | Adenz	DNZ
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
