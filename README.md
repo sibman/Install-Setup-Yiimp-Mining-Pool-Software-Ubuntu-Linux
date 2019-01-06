@@ -321,12 +321,12 @@ Runners	RUNNERS  | RECORD	RCD | RabbitCoin	RBBT | CommunityGene	CGEN | Budbo	BUB
 Sakuracoin	SKR  | Hyper Pay	HPY | BetaCoin	BET | PlusOneCoin	PLUS | Delizia	DELIZ | PROUD Money	PROUD | BTCMoon	BTCM
 ACChain	ACC  | CryptalDash	CRD | Excaliburcoin	EXC | Centaure	CEN | Ethereum Lite	ELITE | MIRQ	MRQ | CoffeeCoin	CFC
 GIGA	XG  | STEX	STEX | Infinipay	IFP | Tellurion	TELL | ZenGold	ZENGOLD | Wi Coin	WIC | Adenz	DNZ
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Cybereits	CRE  | Axiom	AXIOM | EmaratCoin	AEC | CottonCoin	COTN | iQuant	IQT | Mero	MERO | Obitan Chain	OBTC
+EA Coin	EAG  | Cropcoin	CROP | Vestoria	VSTR | Posscoin	POSS | Arbitracoin	ATC | Bubble	BUB | AvatarCoin	AV
+Francs	FRN  | Aces	ACES | DynamicCoin	DMC | Halloween Coin	HALLO | Birds	BIRDS | Wink	WINK | Dutch Coin	DUTCH
+NEO GOLD	NEOG  | GOLD Reward GRX | PlexCoin	PLX | ValueChain	VLC | SnipCoin	SNIP | SalPay	SAL | FCoin Token	FT
+CoinEx Token	CET  | Luna Stars	LSTR | Esports Token	EST | ABCC Token	AT | BFFDoom	BFF | ALLCOIN	ALC | ZTCoin	ZT
+Dragon Token	DT  | APOT	APOT | Bgogo Token	BGG | WA Space	WA | EtherDelta Token	EDT | - | -
 
 
 
