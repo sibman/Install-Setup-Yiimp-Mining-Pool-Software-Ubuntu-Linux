@@ -310,11 +310,11 @@ Graviocoin	GIO | VeriDocGlobal	VDG | Nerva	XNV | Endorsit	EDS | Celsius	CEL | Go
 PressOne	PRS  | YUKI	YUKI | BlockLogic	BLTG | CapdaxToken	XCD | GameChain System	GCS | Bastonet	BSN | CARDbuyers	BCARD
 IDOL COIN	IDOL  | Noir	NOR | MEETONE	MEETONE | BlockCDN	BCDN | Rubex Money	RBMC | X Coin	X | CORION	COR
 Alphabit	ABC  | Alttex	ALTX | Elliot Coin	ELLI | Invictus Hype	IHF | Internet of T	XOT | EmberCoin	EMB | CEDEX Coin	CEDEX
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
-aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
+Candy	CANDY  | SaveNode	SNO | EscrowCoin	ESCO | Hybrid Block	HYB | BitNautic Token	BTNT | Animecoin	ANI | Storjcoin X	SJCX
+wys Token	WYS  | Quotient	XQN | President Trump	PRES | OBXcoin	OBX | MobilinkToken	MOLK | Digital Asset	DAXT | President Joh	GARY
+BingoCoin	BOC  | Sphre AIR	XID | Traid	TRAID | Concierge Coin	CCC | SuperEdge	ECT | Cubits	QBT | SONO	SONO
+Pandemia	PNDM  | CoinPlay	CP | TerraNova	TER | Hero	HERO | PayDay Coin	PDX | Labh Coin	LABH | First Bitcoin	BIT
+EPLUS Coin	EPLUS  | Civitas	CIV | Trendercoin	TDC | Nuggets	NUG | ORS Group	ORS | Monero Original	XMO | ERA	ERA
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
 aergo  | lyra2 | polytimos | skunk | x13 | groestl | x14
