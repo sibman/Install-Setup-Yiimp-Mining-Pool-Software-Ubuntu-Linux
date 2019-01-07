@@ -4,13 +4,20 @@
 
 ### For paid personalized yiimp multi coins pool setup services, troubleshooting existing pools and quick support please contact
 
-- Discord:      **goodthebest#6606**
+## Contact Now & Let Us Get it Done For You Within Few Hours 
+#### _Whether you want to mine Digibyte coin solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
 
-- Skype:        **onlinebuybiz@gmail.com**
+- [x]   **Email:**  onlinebuybiz@gmail.com
 
-- Email:        **onlinebuybiz@gmail.com**
+- [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
 
-- Telegram:     **@goodthebest**
+- [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
+
+- [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
+
+- [x] **QQ:** 256447418 
+
+- [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
 #### YIIMP SOFTWARE SUPPORTED ALGORITHMS FOR CRYPTOCURRENCY / COINS MINING
 
