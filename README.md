@@ -16,16 +16,16 @@
 
   Algos | Algos  | Algos | Algos | Algos  | Algos
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-argon2  | fresh | lyra2v2 | quark | timetravel | x14
-bastion  | hive | lyra2z | qubit | tribus | x15
-bitcore  | hmq1725 | m7m | scrypt | vanilla | x16r
-blake  | hsr | myr-gr | scryptn | veltor | x16s
-blake2s  | jha | neoscrypt | sha256d | veltor | x17
-blakecoin  | keccak | nist5 | sha256 | whirlpool | xevan
-c11  | keccakc | penta | sha256t | x11 | yescrypt
-deep  | lbry | phi | sib |yescryptR32 | x11evo
-dmd-gr  | luffa | phi2 | skein | x12 | yescryptR16
-aergo  | lyra2 | polytimos | skunk | x13 | groestl
+a5a  | fresh | lyra2v2 | qubit | timetravel | x14
+argon2  | bastion | bitcore | blake | blake2s | blakecoin
+c11  | deep | dmd-gr | lyra2z330 | Lyra2REv3 | geek
+dedal  | hive | hmq1725 | hsr | jha | keccak
+keccakc  | lbry | luffa | lyra2 | Argon | rainforest
+astralhash  | SHA256Q | lyra2z | m7m | myr-gr | neoscrypt
+nist5  | penta | phi | phi2 | polytimos | quark
+vitalium  | x22i | jeonghash | scrypt | scryptn | sha
+sha256d  | sha256 | sha256t | sib | skein | skunk
+allium  | lbk3 | powerhash | tribus | vanilla | veltor
 
 
 # We Can Setup Single and  Multi Algo/Coins Mining Pools for Most Crypto Currencies Listed below with few Exceptions
