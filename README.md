@@ -26,6 +26,11 @@ nist5  | penta | phi | phi2 | polytimos | quark
 vitalium  | x22i | jeonghash | scrypt | scryptn | sha
 sha256d  | sha256 | sha256t | sib | skein | skunk
 allium  | lbk3 | powerhash | tribus | vanilla | veltor
+velvet  | whirlpool | x11 | x11evo | x12 | x13
+aergo  | exosis | X20R | x15 | x16r | x16s
+x17  | xevan | yescrypt | yescryptR32 | yescryptR16 | groestl
+sonoa  | X21S | bcd (x13) | blake2b | - | -
+
 
 
 # We Can Setup Single and  Multi Algo/Coins Mining Pools for Most Crypto Currencies Listed below with few Exceptions
