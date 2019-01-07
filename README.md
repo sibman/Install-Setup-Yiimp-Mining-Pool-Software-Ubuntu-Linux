@@ -64,6 +64,21 @@ x17  | xevan | yescrypt | yescryptR32 | yescryptR16 | groestl
 sonoa  | X21S | bcd (x13) | blake2b | - | -
 
 
+Sample frontend of yiimp software mining pool
+![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
+
+Another sample page of yiimp software mining pool
+![yiimp installation](https://www.sohowa.com/images/samplepool2.jpg)
+
+Admin side of Yiimp Mining Pool - A
+![yiimp admin control section page 1](https://www.sohowa.com/images/admin1.jpg)
+
+Admin side of Yiimp Mining Pool - B
+![yiimp admin control section page 2](https://www.sohowa.com/images/admin2.jpg)
+
+Admin side of Yiimp Mining Pool - C
+![yiimp admin control section page 3](https://www.sohowa.com/images/admin3.jpg)
+
 
 # We Can Setup Single and  Multi Algo/Coins Mining Pools for Most Crypto Currencies Listed below with few Exceptions
 
@@ -366,48 +381,4 @@ CoinEx Token	CET  | Luna Stars	LSTR | Esports Token	EST | ABCC Token	AT | BFFDoo
 Dragon Token	DT  | APOT	APOT | Bgogo Token	BGG | WA Space	WA | EtherDelta Token	EDT | - | -
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sample frontend of yiimp software mining pool
-![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
-
-Another sample page of yiimp software mining pool
-![yiimp installation](https://www.sohowa.com/images/samplepool2.jpg)
-
-Admin side of Yiimp Mining Pool - A
-![yiimp admin control section page 1](https://www.sohowa.com/images/admin1.jpg)
-
-Admin side of Yiimp Mining Pool - B
-![yiimp admin control section page 2](https://www.sohowa.com/images/admin2.jpg)
-
-Admin side of Yiimp Mining Pool - C
-![yiimp admin control section page 3](https://www.sohowa.com/images/admin3.jpg)
 
