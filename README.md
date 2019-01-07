@@ -20,7 +20,7 @@
 - [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
 
-Build and Install Mining Pool for Any Cryptocurrency Altcoins and Algorithms onn Yiimp Multi Coins & Multi Algo Mining Pool Software
+Build and Install Mining Pool for Any Cryptocurrency Altcoins and Algorithms on Yiimp Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
 We provide altcoin cryptocurrencies mining pool installation and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
