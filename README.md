@@ -22,7 +22,7 @@
 
 
 
-Build and Install Mining Pool for Any Cryptocurrency Altcoins and Algorithms on Yiimp Multi Coins & Multi Algo Mining Pool Software
+Install and Build Mining Pool for Any Cryptocurrency Altcoins and Algorithms on Yiimp (Multi Coins/Algo Mining Pool Software)
 ----------------
 
 We provide altcoin cryptocurrencies mining pool installation and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
