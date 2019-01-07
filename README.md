@@ -5,7 +5,7 @@
 ### For paid personalized yiimp multi coins pool setup services, troubleshooting existing pools and quick support please contact
 
 ## Contact Now & Let Us Get it Done For You Within Few Hours 
-#### _Whether you want to mine Digibyte coin solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
+#### _Whether you want to mine a single coin or several cyrptocurrencies solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
