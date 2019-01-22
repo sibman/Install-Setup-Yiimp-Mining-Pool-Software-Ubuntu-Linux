@@ -64,7 +64,7 @@ velvet  | whirlpool | x11 | x11evo | x12 | x13
 aergo  | exosis | X20R | x15 | x16r | x16s
 x17  | xevan | yescrypt | yescryptR32 | yescryptR16 | groestl
 sonoa  | X21S | bcd (x13) | blake2b | YescryptR8 | x21s
-x16rt  | Lyra2vc0ban |  |  |  | 
+x16rt  | Lyra2vc0ban | Trihash | Argon2m | Binarium-V1 | 
 
 
 Sample frontend of yiimp software mining pool
