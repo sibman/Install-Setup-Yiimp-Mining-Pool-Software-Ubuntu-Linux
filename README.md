@@ -15,7 +15,7 @@
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
-- [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
+- [x] **BitcoinTalk forum:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
 - [x] **WeChat:** goodthebest 
 
