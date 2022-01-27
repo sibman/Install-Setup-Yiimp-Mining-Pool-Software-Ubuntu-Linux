@@ -4,6 +4,8 @@
 
 ### For paid personalized yiimp multi coins pool setup services, troubleshooting existing pools and quick support please contact
 
+### ASICBOOST enabled pool solution also available for Bitcoin and other coins, non-yiimp solution though. If you want to setup an Asicboost friendly mining pool that would mine Bitcoin with your own asic machines or NiceHash or MiningRingRentals (MRR) and other SHA256 coins with Asicboost, feel free to ping us on below contacts.
+
 ## Contact Now & Let Us Setup a Mining Pool For Any Algorithm & Cryptocoin Within Hours 
 #### _Whether you want to mine a single coin or several cyrptocurrencies solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
 
